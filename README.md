@@ -1,7 +1,7 @@
-# Awesome Language Grounding
+# Awesome Visual Grounding
 A curated list of research papers in grounding. Link to the code if available is also present.
 
-Language grounding task refers to localizing an object given a query or a sentence. It is somewhat related to Visual Question Answering so this repository might also help [https://github.com/JamesChuanggg/awesome-vqa](https://github.com/JamesChuanggg/awesome-vqa)
+Visual grounding task refers to localizing an object given a query or a sentence. It is somewhat related to Visual Question Answering so this repository might also help [https://github.com/JamesChuanggg/awesome-vqa](https://github.com/JamesChuanggg/awesome-vqa)
 
 ## Contributing
 Feel free to contact me [theshadow29.github.io](theshadow29.github.io) or open an issue or submit a pull request. 
@@ -18,7 +18,13 @@ To be updated
 
 ## Paper Roadmap (Chronological Order):
 
-### Language Grounding in Images:
+### Visual Grounding (Images):
 1. Karpathy, Andrej, Armand Joulin, and Li F. Fei-Fei. **Deep fragment embeddings for bidirectional image sentence mapping.** Advances in neural information processing systems. 2014. [[Paper]](http://papers.nips.cc/paper/5281-deep-fragment-embeddings-for-bidirectional-image-sentence-mapping.pdf)
-2. Karpathy, Andrej, and Li Fei-Fei. **Deep visual-semantic alignments for generating image descriptions.** Proceedings of the IEEE conference on computer vision and pattern recognition. 2015.[[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Karpathy_Deep_Visual-Semantic_Alignments_2015_CVPR_paper.pdf) [[Code]](https://github.com/karpathy/neuraltalk) [[Torch Code]](https://github.com/karpathy/neuraltalk2) [[Website]](https://cs.stanford.edu/people/karpathy/deepimagesent/)
+2. Karpathy, Andrej, and Li Fei-Fei. **Deep visual-semantic alignments for generating image descriptions.** Proceedings of the IEEE conference on computer vision and pattern recognition. 2015. *Method name: Neural Talk*. [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Karpathy_Deep_Visual-Semantic_Alignments_2015_CVPR_paper.pdf) [[Code]](https://github.com/karpathy/neuraltalk) [[Torch Code]](https://github.com/karpathy/neuraltalk2) [[Website]](https://cs.stanford.edu/people/karpathy/deepimagesent/) 
+3. Hu, Ronghang, et al. **Natural language object retrieval.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016. *Method name: Spatial Context Recurrent
+ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Hu_Natural_Language_Object_CVPR_2016_paper.pdf) [[Code]](https://github.com/ronghanghu/natural-language-object-retrieval) [[Website]](http://ronghanghu.com/text_obj_retrieval/)
+4. Rohrbach, Anna, et al. **Grounding of textual phrases in images by reconstruction.** European Conference on Computer Vision. Springer, Cham, 2016. *Method Name: GroundR* [[Paper]](https://arxiv.org/pdf/1511.03745.pdf) [[Tensorflow Code]](https://github.com/kanchen-usc/GroundeR) [[Torch Code]](https://github.com/ruotianluo/refexp-comprehension)
+5. Wang, Mingzhe, et al. **Structured matching for phrase localization.** European Conference on Computer Vision. Springer, Cham, 2016. [[Paper]](https://pdfs.semanticscholar.org/9216/2ec88ad974cc5082d9688c8bfee672ad59ad.pdf) [[Code]](https://github.com/princeton-vl/structured-matching)
+
+
 
