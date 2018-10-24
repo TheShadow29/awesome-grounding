@@ -3,25 +3,29 @@ A curated list of research papers in grounding. Link to the code if available is
 
 Visual grounding task refers to localizing an object given a query or a sentence. It is also sometimes called referring expression comprehension. Referring expression is basically uniquely identifying the object in question. I have not included papers which do only referring expression generation, however if they also do the comprehension (or only comprehension) they have been included.
 
-Video Grounding is work in progress. Should be completed sometime end of November. 
-
 This task is somewhat related to Visual Question Answering so this repository might also help [https://github.com/JamesChuanggg/awesome-vqa](https://github.com/JamesChuanggg/awesome-vqa).
 
+To maintaing the quality of the repo, I have gone through all the listed papers at least once before adding them to ensure their relevance to grounding. However, I might have missed some paper(s). Feel free to open an issue in that case. I will go through the paper and then add it. 
+
+Video Grounding is work in progress. Should be completed sometime end of November. 
+
 ## Contributing
-Feel free to contact me [theshadow29.github.io](theshadow29.github.io) or open an issue or submit a pull request. 
+ Feel free to contact me [theshadow29.github.io](theshadow29.github.io) or open an issue or submit a pull request. 
 
 ## Datasets
 ### Image Grounding Datasets
 
-1. Plummer, Bryan A., et al. **Flickr30k entities: Collecting region-to-phrase correspondences for richer image-to-sentence models.** Proceedings of the IEEE international conference on computer vision. 2015. [[Paper]](https://arxiv.org/abs/1505.04870) [[Code]](https://github.com/BryanPlummer/pl-clc) [[Website]](http://web.engr.illinois.edu/~bplumme2/Flickr30kEntities/)
+1. **Flickr30k**: Plummer, Bryan A., et al. **Flickr30k entities: Collecting region-to-phrase correspondences for richer image-to-sentence models.** Proceedings of the IEEE international conference on computer vision. 2015. [[Paper]](https://arxiv.org/abs/1505.04870) [[Code]](https://github.com/BryanPlummer/pl-clc) [[Website]](http://web.engr.illinois.edu/~bplumme2/Flickr30kEntities/)
 
-1. Kazemzadeh, Sahar, et al. **Referitgame: Referring to objects in photographs of natural scenes.** Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP). 2014. [[Paper]](http://www.aclweb.org/anthology/D14-1086) [[Website]](http://tamaraberg.com/referitgame/)
+1. **RefClef**: Kazemzadeh, Sahar, et al. **Referitgame: Referring to objects in photographs of natural scenes.** Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP). 2014. [[Paper]](http://www.aclweb.org/anthology/D14-1086) [[Website]](http://tamaraberg.com/referitgame/)
 
-1. Yu, Licheng, et al. **Modeling context in referring expressions.** European Conference on Computer Vision. Springer, Cham, 2016. [[Paper]](https://arxiv.org/pdf/1608.00272.pdf)[[Code]](https://github.com/lichengunc/refer)
+1. **RefCOCOg**: Mao, Junhua, et al. **Generation and comprehension of unambiguous object descriptions.** Proceedings of the IEEE conference on computer vision and pattern recognition. 2016. [[Paper]](https://arxiv.org/pdf/1511.02283.pdf) [[Code]](https://github.com/mjhucla/Google_Refexp_toolbox)
 
-1. Krishna, Ranjay, et al. **Visual genome: Connecting language and vision using crowdsourced dense image annotations.** International Journal of Computer Vision 123.1 (2017): 32-73. [[Paper]](https://arxiv.org/pdf/1602.07332.pdf) [[Website]](https://visualgenome.org/)
+1. **RefCOCO and RefCOCO+**: Yu, Licheng, et al. **Modeling context in referring expressions.** European Conference on Computer Vision. Springer, Cham, 2016. [[Paper]](https://arxiv.org/pdf/1608.00272.pdf)[[Code]](https://github.com/lichengunc/refer)
 
+1. **Visual Genome**: Krishna, Ranjay, et al. **Visual genome: Connecting language and vision using crowdsourced dense image annotations.** International Journal of Computer Vision 123.1 (2017): 32-73. [[Paper]](https://arxiv.org/pdf/1602.07332.pdf) [[Website]](https://visualgenome.org/)
 
+Instructions on RefClef, RefCOCO, RefCOCO+, RefCOCOg is nicely summarized here: https://github.com/lichengunc/refer
 
 ### Video Datasets
 To be updated
