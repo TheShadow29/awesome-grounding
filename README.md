@@ -97,7 +97,7 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 
 1. Cirik, Volkan, Taylor Berg-Kirkpatrick, and Louis-Philippe Morency. **Using syntax to ground referring expressions in natural images.** arXiv preprint arXiv:1805.10547 (2018).[[Paper]](https://arxiv.org/pdf/1805.10547.pdf) [[Code]](https://github.com/volkancirik/groundnet)
 
-### Object Retrieval
+### Natural Language Object Retrieval
 
 1. Guadarrama, Sergio, et al. **Open-vocabulary Object Retrieval.** Robotics: science and systems. Vol. 2. No. 5. 2014. [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.434.3000&rep=rep1&type=pdf) [[Code]](http://openvoc.berkeleyvision.org/)
 
@@ -108,4 +108,4 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 
 1. Li, Jianan, et al. **Deep attribute-preserving metric learning for natural language object retrieval.** Proceedings of the 2017 ACM on Multimedia Conference. ACM, 2017. [[Paper: ACM Link]](https://dl.acm.org/citation.cfm?id=3123439)
 
-
+1. Nguyen, Anh, et al. **Object Captioning and Retrieval with Natural Language.** arXiv preprint arXiv:1803.06152 (2018). [[Paper]](https://arxiv.org/pdf/1803.06152.pdf)
