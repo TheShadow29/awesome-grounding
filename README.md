@@ -48,6 +48,8 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 
 1. Fukui, Akira et al. **Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding.** EMNLP (2016). *Method name: MCB* [[Paper]](https://arxiv.org/pdf/1606.01847.pdf)[[Code]](https://github.com/akirafukui/vqa-mcb)
 
+1. Chen, Kan, et al. **MSRC: Multimodal spatial regression with semantic context for phrase grounding.** International Journal of Multimedia Information Retrieval 7.1 (2018): 17-28. [[Paper -Springer Link]](https://link.springer.com/article/10.1007/s13735-017-0139-6)
+
 1. Wu, Fan et al. **An End-to-End Approach to Natural Language Object Retrieval via Context-Aware Deep Reinforcement Learning.** CoRR abs/1703.07579 (2017): n. pag. [[Paper]](https://arxiv.org/pdf/1703.07579.pdf) [[Code]](https://github.com/jxwufan/NLOR_A3C)
 
 1. Yu, Licheng, et al. **A joint speakerlistener-reinforcer model for referring expressions.** Computer Vision and Pattern Recognition (CVPR). Vol. 2. 2017. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yu_A_Joint_Speaker-Listener-Reinforcer_CVPR_2017_paper.pdf) [[Code]](https://github.com/lichengunc/speaker_listener_reinforcer)[[Website]](https://vision.cs.unc.edu/refer/)
@@ -55,6 +57,8 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 1. Hu, Ronghang, et al. **Modeling relationships in referential expressions with compositional modular networks.** Computer Vision and Pattern Recognition (CVPR), 2017 IEEE Conference on. IEEE, 2017. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Hu_Modeling_Relationships_in_CVPR_2017_paper.pdf) [[Code]](https://github.com/ronghanghu/cmn)
 
 1. Xiao, Fanyi, Leonid Sigal, and Yong Jae Lee. **Weakly-supervised visual grounding of phrases with linguistic structures.** arXiv preprint arXiv:1705.01371 (2017). [[Paper]](https://arxiv.org/pdf/1705.01371.pdf) 
+
+1. Plummer, Bryan A., et al. **Phrase localization and visual relationship detection with comprehensive image-language cues.** Proc. ICCV. 2017. [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Plummer_Phrase_Localization_and_ICCV_2017_paper.pdf) [[Code]](https://github.com/BryanPlummer/pl-clc)
 
 1. Chen, Kan, Rama Kovvuri, and Ram Nevatia. **Query-guided regression network with context policy for phrase grounding.** Proceedings of the IEEE International Conference on Computer Vision (ICCV). 2017. *Method name: QRC* [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Chen_Query-Guided_Regression_Network_ICCV_2017_paper.pdf) [[Code]](https://github.com/kanchen-usc/QRC-Net)
 
@@ -66,5 +70,13 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 
 1. Yu, Licheng, et al. **Mattnet: Modular attention network for referring expression comprehension.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2018. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yu_MAttNet_Modular_Attention_CVPR_2018_paper.pdf) [[Code]](https://github.com/lichengunc/MAttNet) [[Website]](http://vision2.cs.unc.edu/refer/comprehension)
 
-1. Deng, Chaorui, et al. **Visual Grounding via Accumulated Attention.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018.[[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Deng_Visual_Grounding_via_CVPR_2018_paper.pdf) 
+1. Deng, Chaorui, et al. **Visual Grounding via Accumulated Attention.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018.[[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Deng_Visual_Grounding_via_CVPR_2018_paper.pdf)
+
+1. Zhang, Yundong, Juan Carlos Niebles, and Alvaro Soto. **Interpretable Visual Question Answering by Visual Grounding from Attention Supervision Mining.** arXiv preprint arXiv:1808.00265 (2018). [[Paper]](https://arxiv.org/pdf/1808.00265.pdf) 
+
+1. Chen, Kan, Jiyang Gao, and Ram Nevatia. **Knowledge aided consistency for weakly supervised phrase grounding.** arXiv preprint arXiv:1803.03879 (2018). [[Paper]](https://arxiv.org/abs/1803.03879) [[Code]](https://github.com/kanchen-usc/KAC-Net)
+
+1. Zhang, Hanwang, Yulei Niu, and Shih-Fu Chang. **Grounding referring expressions in images by variational context.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Grounding_Referring_Expressions_CVPR_2018_paper.pdf) [[Code]](https://github.com/yuleiniu/vc/)
+
+1. Cirik, Volkan, Taylor Berg-Kirkpatrick, and Louis-Philippe Morency. **Using syntax to ground referring expressions in natural images.** arXiv preprint arXiv:1805.10547 (2018).[[Paper]](https://arxiv.org/pdf/1805.10547.pdf) [[Code]](https://github.com/volkancirik/groundnet)
 
