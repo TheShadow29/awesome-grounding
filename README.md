@@ -5,7 +5,7 @@ Visual grounding task refers to localizing an object given a query or a sentence
 
 This task is somewhat related to Visual Question Answering so this repository might also help [https://github.com/JamesChuanggg/awesome-vqa](https://github.com/JamesChuanggg/awesome-vqa).
 
-To maintaing the quality of the repo, I have gone through all the listed papers at least once before adding them to ensure their relevance to grounding. However, I might have missed some paper(s). Feel free to open an issue in that case. I will go through the paper and then add it. 
+To maintaing the quality of the repo, I have gone through all the listed papers at least once before adding them to ensure their relevance to grounding. However, I might have missed some paper(s) or added some irrelevant paper(s). Feel free to open an issue in that case. I will go through the paper and then add / remove it. 
 
 Video Grounding is work in progress. Should be completed sometime end of November. 
 
