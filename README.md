@@ -48,6 +48,8 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 
 1. Fukui, Akira et al. **Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding.** EMNLP (2016). *Method name: MCB* [[Paper]](https://arxiv.org/pdf/1606.01847.pdf)[[Code]](https://github.com/akirafukui/vqa-mcb)
 
+1. Endo, Ko, et al. **An attention-based regression model for grounding textual phrases in images.** Proc. IJCAI. 2017. [[Paper]](https://www.ijcai.org/proceedings/2017/0558.pdf)
+
 1. Chen, Kan, et al. **MSRC: Multimodal spatial regression with semantic context for phrase grounding.** International Journal of Multimedia Information Retrieval 7.1 (2018): 17-28. [[Paper -Springer Link]](https://link.springer.com/article/10.1007/s13735-017-0139-6)
 
 1. Wu, Fan et al. **An End-to-End Approach to Natural Language Object Retrieval via Context-Aware Deep Reinforcement Learning.** CoRR abs/1703.07579 (2017): n. pag. [[Paper]](https://arxiv.org/pdf/1703.07579.pdf) [[Code]](https://github.com/jxwufan/NLOR_A3C)
@@ -79,4 +81,3 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 1. Zhang, Hanwang, Yulei Niu, and Shih-Fu Chang. **Grounding referring expressions in images by variational context.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Grounding_Referring_Expressions_CVPR_2018_paper.pdf) [[Code]](https://github.com/yuleiniu/vc/)
 
 1. Cirik, Volkan, Taylor Berg-Kirkpatrick, and Louis-Philippe Morency. **Using syntax to ground referring expressions in natural images.** arXiv preprint arXiv:1805.10547 (2018).[[Paper]](https://arxiv.org/pdf/1805.10547.pdf) [[Code]](https://github.com/volkancirik/groundnet)
-
