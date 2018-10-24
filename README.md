@@ -22,6 +22,7 @@ Feel free to contact me [theshadow29.github.io](theshadow29.github.io) or open a
 ### Video Datasets
 To be updated
 
+
 ## Paper Roadmap (Chronological Order):
 
 ### Visual Grounding / Referring Expressions (Images):
@@ -58,6 +59,10 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 
 1. Hu, Ronghang, et al. **Modeling relationships in referential expressions with compositional modular networks.** Computer Vision and Pattern Recognition (CVPR), 2017 IEEE Conference on. IEEE, 2017. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Hu_Modeling_Relationships_in_CVPR_2017_paper.pdf) [[Code]](https://github.com/ronghanghu/cmn)
 
+1. Luo, Ruotian, and Gregory Shakhnarovich. **Comprehension-guided referring expressions.** Computer Vision and Pattern Recognition (CVPR). Vol. 2. 2017. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Luo_Comprehension-Guided_Referring_Expressions_CVPR_2017_paper.pdf) [[Code]](https://github.com/ruotianluo/refexp-comprehension)
+
+1. Liu, Jingyu, Liang Wang, and Ming-Hsuan Yang. **Referring expression generation and comprehension via attributes.** Proceedings of CVPR. 2017. [[Paper]](http://faculty.ucmerced.edu/mhyang/papers/iccv2017_referring_expression.pdf) 
+
 1. Xiao, Fanyi, Leonid Sigal, and Yong Jae Lee. **Weakly-supervised visual grounding of phrases with linguistic structures.** arXiv preprint arXiv:1705.01371 (2017). [[Paper]](https://arxiv.org/pdf/1705.01371.pdf) 
 
 1. Plummer, Bryan A., et al. **Phrase localization and visual relationship detection with comprehensive image-language cues.** Proc. ICCV. 2017. [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Plummer_Phrase_Localization_and_ICCV_2017_paper.pdf) [[Code]](https://github.com/BryanPlummer/pl-clc)
@@ -67,6 +72,8 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 1. Liu, Chenxi, et al. **Recurrent Multimodal Interaction for Referring Image Segmentation.** ICCV. 2017. [[Paper]](https://arxiv.org/pdf/1703.07939.pdf) [[Code]](https://github.com/chenxi116/TF-phrasecut-public)
 
 1. Li, Jianan, et al. **Deep attribute-preserving metric learning for natural language object retrieval.** Proceedings of the 2017 ACM on Multimedia Conference. ACM, 2017. [[Paper: ACM Link]](https://dl.acm.org/citation.cfm?id=3123439)
+
+1. Li, Xiangyang, and Shuqiang Jiang. **Bundled Object Context for Referring Expressions.** IEEE Transactions on Multimedia (2018). [[Paper ieee link]](https://ieeexplore.ieee.org/document/8307406) 
 
 1. Yu, Zhou, et al. **Rethinking Diversified and Discriminative Proposal Generation for Visual Grounding.** arXiv preprint arXiv:1805.03508 (2018). [[Paper]](https://www.ijcai.org/proceedings/2018/0155.pdf) [[Code]](https://github.com/XiangChenchao/DDPN)
 
@@ -81,3 +88,6 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 1. Zhang, Hanwang, Yulei Niu, and Shih-Fu Chang. **Grounding referring expressions in images by variational context.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Grounding_Referring_Expressions_CVPR_2018_paper.pdf) [[Code]](https://github.com/yuleiniu/vc/)
 
 1. Cirik, Volkan, Taylor Berg-Kirkpatrick, and Louis-Philippe Morency. **Using syntax to ground referring expressions in natural images.** arXiv preprint arXiv:1805.10547 (2018).[[Paper]](https://arxiv.org/pdf/1805.10547.pdf) [[Code]](https://github.com/volkancirik/groundnet)
+
+
+
