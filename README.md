@@ -106,6 +106,13 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 
 1. Cirik, Volkan, Taylor Berg-Kirkpatrick, and Louis-Philippe Morency. **Using syntax to ground referring expressions in natural images.** arXiv preprint arXiv:1805.10547 (2018).[[Paper]](https://arxiv.org/pdf/1805.10547.pdf) [[Code]](https://github.com/volkancirik/groundnet)
 
+1. Kovvuri, Rama, and Ram Nevatia. **PIRC Net: Using Proposal Indexing, Relationships and Context for Phrase Grounding.** arXiv preprint arXiv:1812.03213 (2018). [[Paper]](https://arxiv.org/pdf/1812.03213v1.pdf)
+
+1. Liu, Daqing, et al. **Explainability by Parsing: Neural Module Tree Networks for Natural Language Visual Grounding.** arXiv preprint arXiv:1812.03299 (2018). [[Paper]](https://arxiv.org/pdf/1812.03299v1.pdf)
+
+1. Chen, Xinpeng, et al. **Real-Time Referring Expression Comprehension by Single-Stage Grounding Network.** arXiv preprint arXiv:1812.03426 (2018). [[Paper]](https://arxiv.org/pdf/1812.03426v1.pdf)
+
+
 ### Natural Language Object Retrieval (Images)
 
 1. Guadarrama, Sergio, et al. **Open-vocabulary Object Retrieval.** Robotics: science and systems. Vol. 2. No. 5. 2014. [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.434.3000&rep=rep1&type=pdf) [[Code]](http://openvoc.berkeleyvision.org/)
@@ -121,6 +128,3 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 
 ### Video Grounding (Activity Localization):
 1. Gao, Jiyang, et al. **Tall: Temporal activity localization via language query.** arXiv preprint arXiv:1705.02101 (2017).[[Paper]](https://arxiv.org/pdf/1705.02101.pdf) [[Code]](https://github.com/jiyanggao/TALL)
-
-
-
