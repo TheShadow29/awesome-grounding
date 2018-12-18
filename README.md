@@ -106,6 +106,8 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 
 1. Cirik, Volkan, Taylor Berg-Kirkpatrick, and Louis-Philippe Morency. **Using syntax to ground referring expressions in natural images.** arXiv preprint arXiv:1805.10547 (2018).[[Paper]](https://arxiv.org/pdf/1805.10547.pdf) [[Code]](https://github.com/volkancirik/groundnet)
 
+1. Akbari, Hassan, et al. **Multi-level Multimodal Common Semantic Space for Image-Phrase Grounding.** arXiv preprint arXiv:1811.11683 (2018). [[Paper]](https://arxiv.org/pdf/1811.11683v1.pdf) 
+
 1. Kovvuri, Rama, and Ram Nevatia. **PIRC Net: Using Proposal Indexing, Relationships and Context for Phrase Grounding.** arXiv preprint arXiv:1812.03213 (2018). [[Paper]](https://arxiv.org/pdf/1812.03213v1.pdf)
 
 1. Liu, Daqing, et al. **Explainability by Parsing: Neural Module Tree Networks for Natural Language Visual Grounding.** arXiv preprint arXiv:1812.03299 (2018). [[Paper]](https://arxiv.org/pdf/1812.03299v1.pdf)
@@ -125,6 +127,8 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 1. Li, Jianan, et al. **Deep attribute-preserving metric learning for natural language object retrieval.** Proceedings of the 2017 ACM on Multimedia Conference. ACM, 2017. [[Paper: ACM Link]](https://dl.acm.org/citation.cfm?id=3123439)
 
 1. Nguyen, Anh, et al. **Object Captioning and Retrieval with Natural Language.** arXiv preprint arXiv:1803.06152 (2018). [[Paper]](https://arxiv.org/pdf/1803.06152.pdf) [[Website]](https://sites.google.com/site/objcaptioningretrieval/)
+
+1. Plummer, Bryan A., et al. **Open-vocabulary Phrase Detection.** arXiv preprint arXiv:1811.07212 (2018). [[Paper]](https://arxiv.org/pdf/1811.07212.pdf) [[Code]](https://github.com/VisionLearningGroup/phrase-rcnn)
 
 ### Video Grounding (Activity Localization):
 1. Gao, Jiyang, et al. **Tall: Temporal activity localization via language query.** arXiv preprint arXiv:1705.02101 (2017).[[Paper]](https://arxiv.org/pdf/1705.02101.pdf) [[Code]](https://github.com/jiyanggao/TALL)
