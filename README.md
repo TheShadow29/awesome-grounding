@@ -114,6 +114,7 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 
 1. Chen, Xinpeng, et al. **Real-Time Referring Expression Comprehension by Single-Stage Grounding Network.** arXiv preprint arXiv:1812.03426 (2018). [[Paper]](https://arxiv.org/pdf/1812.03426v1.pdf)
 
+1. Wang, Peng, et al. **Neighbourhood Watch: Referring Expression Comprehension via Language-guided Graph Attention Networks.** arXiv preprint arXiv:1812.04794 (2018). [[Paper]](https://arxiv.org/pdf/1812.04794.pdf)
 
 ### Natural Language Object Retrieval (Images)
 
