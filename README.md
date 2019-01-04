@@ -32,11 +32,13 @@ Instructions on RefClef, RefCOCO, RefCOCO+, RefCOCOg is nicely summarized here: 
 
 1. **TaCoS**: Regneri, Michaela, et al. **Grounding action descriptions in videos.** Transactions of the Association of Computational Linguistics 1 (2013): 25-36. [[Paper]](http://aclweb.org/anthology/Q13-1003) [[Website]](http://www.coli.uni-saarland.de/projects/smile/page.php?id=tacos)
 
-2. **Charades**: Sigurdsson, Gunnar A., et al. **Hollywood in homes: Crowdsourcing data collection for activity understanding.** European Conference on Computer Vision. Springer, Cham, 2016. [[Paper]](https://arxiv.org/pdf/1604.01753.pdf) [[Website]](https://allenai.org/plato/charades/)
+1. **Charades**: Sigurdsson, Gunnar A., et al. **Hollywood in homes: Crowdsourcing data collection for activity understanding.** European Conference on Computer Vision. Springer, Cham, 2016. [[Paper]](https://arxiv.org/pdf/1604.01753.pdf) [[Website]](https://allenai.org/plato/charades/)
 
-3. **Charades-STA**: Gao, Jiyang, et al. **Tall: Temporal activity localization via language query.** arXiv preprint arXiv:1705.02101 (2017).[[Paper]](https://arxiv.org/pdf/1705.02101.pdf) [[Code]](https://github.com/jiyanggao/TALL)
+1. **Charades-STA**: Gao, Jiyang, et al. **Tall: Temporal activity localization via language query.** arXiv preprint arXiv:1705.02101 (2017).[[Paper]](https://arxiv.org/pdf/1705.02101.pdf) [[Code]](https://github.com/jiyanggao/TALL)
 
-4. **Charades-Ego**:  [[Website]](https://allenai.org/plato/charades/)
+1. **Distinct Describable Moments (DiDeMo)**: Hendricks, Lisa Anne, et al. **Localizing moments in video with natural language.** Proceedings of the IEEE International Conference on Computer Vision (ICCV). 2017. *Method name: MCN* [[Paper]](https://arxiv.org/pdf/1708.01641.pdf) [[Code]](https://github.com/LisaAnne/LocalizingMoments) [[Website]](https://people.eecs.berkeley.edu/~lisa_anne/didemo.html)
+
+1. **Charades-Ego**:  [[Website]](https://allenai.org/plato/charades/)
 	- Sigurdsson, Gunnar, et al. **Actor and Observer: Joint Modeling of First and Third-Person Videos.** CVPR-IEEE Conference on Computer Vision & Pattern Recognition. 2018. [[Paper]](https://arxiv.org/pdf/1804.09627.pdf) [[Code]](https://github.com/gsig/actor-observer)
     - Sigurdsson, Gunnar A., et al. "Charades-Ego: A Large-Scale Dataset of Paired Third and First Person Videos." arXiv preprint arXiv:1804.09626 (2018). [[Paper]](https://arxiv.org/pdf/1804.09626.pdf) [[Code]](https://github.com/gsig/charades-algorithms)
 
@@ -132,4 +134,8 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 1. Plummer, Bryan A., et al. **Open-vocabulary Phrase Detection.** arXiv preprint arXiv:1811.07212 (2018). [[Paper]](https://arxiv.org/pdf/1811.07212.pdf) [[Code]](https://github.com/VisionLearningGroup/phrase-rcnn)
 
 ### Video Grounding (Activity Localization):
-1. Gao, Jiyang, et al. **Tall: Temporal activity localization via language query.** arXiv preprint arXiv:1705.02101 (2017).[[Paper]](https://arxiv.org/pdf/1705.02101.pdf) [[Code]](https://github.com/jiyanggao/TALL)
+1. Gao, Jiyang, et al. **Tall: Temporal activity localization via language query.** arXiv preprint arXiv:1705.02101 (2017). *Method name: TALL* [[Paper]](https://arxiv.org/pdf/1705.02101.pdf) [[Code]](https://github.com/jiyanggao/TALL)
+
+1. Hendricks, Lisa Anne, et al. **Localizing moments in video with natural language.** Proceedings of the IEEE International Conference on Computer Vision (ICCV). 2017. *Method name: MCN* [[Paper]](https://arxiv.org/pdf/1708.01641.pdf) [[Code]](https://github.com/LisaAnne/LocalizingMoments)
+
+1. 
