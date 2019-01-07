@@ -139,6 +139,12 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 
 1. Khoreva, Anna, Anna Rohrbach, and Bernt Schiele. **Video Object Segmentation with Language Referring Expressions.** arXiv preprint arXiv:1803.08006 (2018). [[Paper]](https://arxiv.org/pdf/1803.08006.pdf) [[Website]](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/video-segmentation/video-object-segmentation-with-language-referring-expressions/)
 
+1. Xu, Huijuan, et al. **Text-to-Clip Video Retrieval with Early Fusion and Re-Captioning.** arXiv preprint arXiv:1804.05113 (2018). [[Paper]](https://arxiv.org/pdf/1804.05113.pdf) [[Code]](https://github.com/VisionLearningGroup/Text-to-Clip_Retrieval)
+
+1. Liu, Bingbin, et al. **Temporal Modular Networks for Retrieving Complex Compositional Activities in Videos.** European Conference on Computer Vision. Springer, Cham, 2018. [[Paper]](http://svl.stanford.edu/assets/papers/liu2018eccv.pdf) [[Website]](https://clarabing.github.io/tmn/)
+
 1. Chen, Jingyuan, et al. **Temporally grounding natural sentence in video.** Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing. 2018. [[Paper]](https://pdfs.semanticscholar.org/452a/ca244ef62a533d8b46a54c6212fe9fa3ce9a.pdf) 
 
 1. Hendricks, Lisa Anne, et al. **Localizing Moments in Video with Temporal Language.** arXiv preprint arXiv:1809.01337 (2018). [[Paper]](https://arxiv.org/pdf/1809.01337.pdf) [[Code]](https://github.com/LisaAnne/TemporalLanguageRelease) [[Website]](https://people.eecs.berkeley.edu/~lisa_anne/tempo.html)
+
+1. Zhang, Da, et al. **MAN: Moment Alignment Network for Natural Language Moment Retrieval via Iterative Graph Adjustment.** arXiv preprint arXiv:1812.00087 (2018). [[Paper]](https://arxiv.org/pdf/1812.00087.pdf)
