@@ -35,7 +35,7 @@ Instructions on RefClef, RefCOCO, RefCOCO+, RefCOCOg is nicely summarized here: 
 
 1. **Distinct Describable Moments (DiDeMo)**: Hendricks, Lisa Anne, et al. **Localizing moments in video with natural language.** Proceedings of the IEEE International Conference on Computer Vision (ICCV). 2017. *Method name: MCN* [[Paper]](https://arxiv.org/pdf/1708.01641.pdf) [[Code]](https://github.com/LisaAnne/LocalizingMoments) [[Website]](https://people.eecs.berkeley.edu/~lisa_anne/didemo.html)
 
-1. Krishna, Ranjay, et al. **Dense-captioning events in videos.** Proceedings of the IEEE International Conference on Computer Vision. 2017. [[Paper]](https://arxiv.org/pdf/1705.00754.pdf) [[Website]](https://cs.stanford.edu/people/ranjaykrishna/densevid/)
+1. **ActivityNet Captions**: Krishna, Ranjay, et al. **Dense-captioning events in videos.** Proceedings of the IEEE International Conference on Computer Vision. 2017. [[Paper]](https://arxiv.org/pdf/1705.00754.pdf) [[Website]](https://cs.stanford.edu/people/ranjaykrishna/densevid/)
 
 1. **Charades-Ego**:  [[Website]](https://allenai.org/plato/charades/)
 	- Sigurdsson, Gunnar, et al. **Actor and Observer: Joint Modeling of First and Third-Person Videos.** CVPR-IEEE Conference on Computer Vision & Pattern Recognition. 2018. [[Paper]](https://arxiv.org/pdf/1804.09627.pdf) [[Code]](https://github.com/gsig/actor-observer)
