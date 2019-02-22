@@ -111,6 +111,8 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 
 1. Margffoy-Tuay, Edgar, et al. **Dynamic multimodal instance segmentation guided by natural language queries.** Proceedings of the European Conference on Computer Vision (ECCV). 2018. [[Paper]](https://arxiv.org/pdf/1807.02257.pdf) [[Code]](https://github.com/BCV-Uniandes/DMS)
 
+1. Plummer, Bryan A., et al. **Conditional image-text embedding networks.** Proceedings of the European Conference on Computer Vision (ECCV). 2018. [[Paper]](https://arxiv.org/pdf/1711.08389.pdf) [[Code]](https://github.com/BryanPlummer/cite)
+
 1. Akbari, Hassan, et al. **Multi-level Multimodal Common Semantic Space for Image-Phrase Grounding.** arXiv preprint arXiv:1811.11683 (2018). [[Paper]](https://arxiv.org/pdf/1811.11683v1.pdf) 
 
 1. Kovvuri, Rama, and Ram Nevatia. **PIRC Net: Using Proposal Indexing, Relationships and Context for Phrase Grounding.** arXiv preprint arXiv:1812.03213 (2018). [[Paper]](https://arxiv.org/pdf/1812.03213v1.pdf)
