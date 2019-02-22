@@ -121,6 +121,8 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 
 1. Wang, Peng, et al. **Neighbourhood Watch: Referring Expression Comprehension via Language-guided Graph Attention Networks.** arXiv preprint arXiv:1812.04794 (2018). [[Paper]](https://arxiv.org/pdf/1812.04794.pdf)
 
+1. Deng, Chaorui, et al. **You Only Look & Listen Once: Towards Fast and Accurate Visual Grounding.** arXiv preprint arXiv:1902.04213 (2019). [[Paper]](https://arxiv.org/pdf/1902.04213.pdf)
+
 ### Natural Language Object Retrieval (Images)
 
 1. Guadarrama, Sergio, et al. **Open-vocabulary Object Retrieval.** Robotics: science and systems. Vol. 2. No. 5. 2014. [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.434.3000&rep=rep1&type=pdf) [[Code]](http://openvoc.berkeleyvision.org/)
