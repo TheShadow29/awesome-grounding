@@ -157,7 +157,7 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 
 1. Liu, Bingbin, et al. **Temporal Modular Networks for Retrieving Complex Compositional Activities in Videos.** European Conference on Computer Vision. Springer, Cham, 2018. [[Paper]](http://svl.stanford.edu/assets/papers/liu2018eccv.pdf) [[Website]](https://clarabing.github.io/tmn/)
 
-1. Liu, Meng, et al. **Attentive Moment Retrieval in Videos.** Proceedings of the International ACM SIGIR Conference . 2018. [[Paper]] (https://www.comp.nus.edu.sg/~xiangnan/papers/sigir18-video-retrieval.pdf) [[Website]] (https://sigir2018.wixsite.com/acrn)
+1. Liu, Meng, et al. **Attentive Moment Retrieval in Videos.** Proceedings of the International ACM SIGIR Conference . 2018. [[Paper]](https://www.comp.nus.edu.sg/~xiangnan/papers/sigir18-video-retrieval.pdf) [[Website]](https://sigir2018.wixsite.com/acrn)
 
 1. Chen, Jingyuan, et al. **Temporally grounding natural sentence in video.** Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing. 2018. [[Paper]](https://pdfs.semanticscholar.org/452a/ca244ef62a533d8b46a54c6212fe9fa3ce9a.pdf) 
 
