@@ -141,6 +141,12 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 1. Plummer, Bryan A., et al. **Open-vocabulary Phrase Detection.** arXiv preprint arXiv:1811.07212 (2018). [[Paper]](https://arxiv.org/pdf/1811.07212.pdf) [[Code]](https://github.com/VisionLearningGroup/phrase-rcnn)
 
 ### Video Grounding (Activity Localization) using Natural Language:
+1. Yu, Haonan, et al. **Grounded Language Learning from Video Described with Sentences** Proceedings of the Annual Meeting of the Association for Computational Linguistics. 2013. [[Paper]](https://www.aclweb.org/anthology/P13-1006)
+
+1. Xu, Ran, et al. **Jointly Modeling Deep Video and Compositional Text to Bridge Vision and Language in a Unified Framework.** Proceedings of the AAAI Conference on Artificial Intelligence. 2015. [[Paper]](http://web.eecs.umich.edu/~jjcorso/pubs/xu_corso_AAAI2015_v2t.pdf)
+
+1. Song, Young Chol, et al. **Unsupervised Alignment of Actions in Video with Text Descriptions** Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI). 2016. [[Paper]](https://www.ijcai.org/Proceedings/16/Papers/289.pdf)
+
 1. Gao, Jiyang, et al. **Tall: Temporal activity localization via language query.** arXiv preprint arXiv:1705.02101 (2017). *Method name: TALL* [[Paper]](https://arxiv.org/pdf/1705.02101.pdf) [[Code]](https://github.com/jiyanggao/TALL)
 
 1. Hendricks, Lisa Anne, et al. **Localizing moments in video with natural language.** Proceedings of the IEEE International Conference on Computer Vision (ICCV). 2017. *Method name: MCN* [[Paper]](https://arxiv.org/pdf/1708.01641.pdf) [[Code]](https://github.com/LisaAnne/LocalizingMoments)
@@ -151,8 +157,16 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 
 1. Liu, Bingbin, et al. **Temporal Modular Networks for Retrieving Complex Compositional Activities in Videos.** European Conference on Computer Vision. Springer, Cham, 2018. [[Paper]](http://svl.stanford.edu/assets/papers/liu2018eccv.pdf) [[Website]](https://clarabing.github.io/tmn/)
 
+1. Liu, Meng, et al. **Attentive Moment Retrieval in Videos.** Proceedings of the International ACM SIGIR Conference . 2018. [[Paper]] (https://www.comp.nus.edu.sg/~xiangnan/papers/sigir18-video-retrieval.pdf) [[Website]] (https://sigir2018.wixsite.com/acrn)
+
 1. Chen, Jingyuan, et al. **Temporally grounding natural sentence in video.** Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing. 2018. [[Paper]](https://pdfs.semanticscholar.org/452a/ca244ef62a533d8b46a54c6212fe9fa3ce9a.pdf) 
 
 1. Hendricks, Lisa Anne, et al. **Localizing Moments in Video with Temporal Language.** arXiv preprint arXiv:1809.01337 (2018). [[Paper]](https://arxiv.org/pdf/1809.01337.pdf) [[Code]](https://github.com/LisaAnne/TemporalLanguageRelease) [[Website]](https://people.eecs.berkeley.edu/~lisa_anne/tempo.html)
 
 1. Zhang, Da, et al. **MAN: Moment Alignment Network for Natural Language Moment Retrieval via Iterative Graph Adjustment.** arXiv preprint arXiv:1812.00087 (2018). [[Paper]](https://arxiv.org/pdf/1812.00087.pdf)
+
+1. Ge, Runzhou, et al. **MAC: Mining Actiivity Concepts for Language-based Temporal Localization.** arXiv preprint arXiv:1811.08925 (2018). [[Paper]](https://arxiv.org/pdf/1811.08925.pdf) [[Code]](https://github.com/runzhouge/MAC)
+
+1. Xu, Huijuan, et al. **Joint Event Detection and Description in Continuous Video Streams.** arXiv preprint arXiv:1802.10250 (2018). [[Paper]](https://arxiv.org/pdf/1802.10250.pdf) [[Code]](https://github.com/VisionLearningGroup/JEDDi-Net) 
+
+1. He, Dongliang, et al. **Read, Watch, and Move: Reinforcement Learning for Temporally Grounding Natural Language Descriptions in Videos.** Proceedings of the AAAI Conference on Artificial Intelligence. 2019. [[Paper]](https://arxiv.org/pdf/1901.06829.pdf)
