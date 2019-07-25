@@ -1,9 +1,17 @@
 # Awesome Visual Grounding
 A curated list of research papers in grounding. Link to the code if available is also present.
 
-Visual grounding task refers to localizing an object given a query or a sentence. It is also sometimes called referring expression comprehension. Referring expression is basically uniquely identifying the object in question. I have not included papers which do only referring expression generation, however if they also do the comprehension (or only comprehension) they have been included.
+~~Visual grounding task refers to localizing an object given a query or a sentence. It is also sometimes called referring expression comprehension. Referring expression is basically uniquely identifying the object in question. I have not included papers which do only referring expression generation, however if they also do the comprehension (or only comprehension) they have been included.~~
 
-This task is somewhat related to Visual Question Answering so this repository might also help [https://github.com/JamesChuanggg/awesome-vqa](https://github.com/JamesChuanggg/awesome-vqa).
+The above definition of Visual grounding is a bit restrictive. In general, grounding X in Y (here X and Y are two different domains) would involve associating phrases (or a word) in X to phrases (or a word) in Y. This new definition makes "grounding" as a problem fundamental to solving multi-modal tasks. In this repository, I focus only on the Vision-Language grounding tasks.
+
+Following this definition, here is the list of tasks this repository would cover:
+- Phrase Grounding in Images aka Referring Expressions: Input is a Query Phrase and an Image, output is the referred bounding box. 
+- Temporal Grounding in Videos: Input is a Query Phrase and a Video (30s-60s long), output is the timestamps to find where the queried action was performed.
+- Grounded Description: Input is an Image or a Video, the output is a caption describing the visual media. The caption must further be grounded in the visual media, i.e., provides evidence for the generated caption and ensure that there is no hallucination. (TODO)
+- Grounding for Embodied Agents: Input is a Query Phrase, usually a command or a question, and an Agent which can traverse in a simulated environment.  (TODO)
+
+A related vision+language task is Visual Question Answering so this repository might also help [https://github.com/JamesChuanggg/awesome-vqa](https://github.com/JamesChuanggg/awesome-vqa).
 
 To maintaing the quality of the repo, I have gone through all the listed papers at least once before adding them to ensure their relevance to grounding. However, I might have missed some paper(s) or added some irrelevant paper(s). Feel free to open an issue in that case. I will go through the paper and then add / remove it. 
 
