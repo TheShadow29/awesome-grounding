@@ -9,7 +9,7 @@ Following this definition, here is the list of tasks this repository would cover
 - Phrase Grounding in Images aka Referring Expressions: Input is a Query Phrase and an Image, output is the referred bounding box. 
 - Temporal Grounding in Videos: Input is a Query Phrase and a Video (30s-60s long), output is the timestamps to find where the queried action was performed.
 - Grounded Description: Input is an Image or a Video, the output is a caption describing the visual media. The caption must further be grounded in the visual media, i.e., provides evidence for the generated caption and ensure that there is no hallucination. (TODO)
-- Grounding for Embodied Agents: Input is a Query Phrase, usually a command or a question, and an Agent which can traverse in a simulated environment.  (TODO)
+- Grounding for Embodied Agents, Visual Navigation: Input is a Query Phrase, usually a command or a question, and an Agent which can traverse in a simulated environment.  (TODO)
 
 A related vision+language task is Visual Question Answering so this repository might also help [https://github.com/JamesChuanggg/awesome-vqa](https://github.com/JamesChuanggg/awesome-vqa).
 
@@ -27,11 +27,17 @@ To maintaing the quality of the repo, I have gone through all the listed papers 
 
 1. **RefCOCOg**: Mao, Junhua, et al. **Generation and comprehension of unambiguous object descriptions.** Proceedings of the IEEE conference on computer vision and pattern recognition. 2016. [[Paper]](https://arxiv.org/pdf/1511.02283.pdf) [[Code]](https://github.com/mjhucla/Google_Refexp_toolbox)
 
-1. **RefCOCO and RefCOCO+**: 1. Yu, Licheng, et al. **Modeling context in referring expressions.** European Conference on Computer Vision. Springer, Cham, 2016. [[Paper]](https://arxiv.org/pdf/1608.00272.pdf)[[Code]](https://github.com/lichengunc/refer)
-
 1. **Visual Genome**: Krishna, Ranjay, et al. **Visual genome: Connecting language and vision using crowdsourced dense image annotations.** International Journal of Computer Vision 123.1 (2017): 32-73. [[Paper]](https://arxiv.org/pdf/1602.07332.pdf) [[Website]](https://visualgenome.org/)
 
+1. **RefCOCO and RefCOCO+**: 1. Yu, Licheng, et al. **Modeling context in referring expressions.** European Conference on Computer Vision. Springer, Cham, 2016. [[Paper]](https://arxiv.org/pdf/1608.00272.pdf)[[Code]](https://github.com/lichengunc/refer)
+
+
+1. **GuessWhat**: De Vries, Harm, et al. **Guesswhat?! visual object discovery through multi-modal dialogue.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017. [[Paper]](https://arxiv.org/abs/1707.00683) [[Code]](https://github.com/GuessWhatGame/guesswhat/) [[Website]](https://guesswhat.ai/#) 
+
 Instructions on RefClef, RefCOCO, RefCOCO+, RefCOCOg is nicely summarized here: https://github.com/lichengunc/refer
+
+
+1. **Clevr-ref+**: Liu, Runtao, et al. **Clevr-ref+: Diagnosing visual reasoning with referring expressions.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. [[Paper]](https://arxiv.org/pdf/1901.00850.pdf) [[Code]](https://github.com/ccvl/clevr-refplus-dataset-gen) [[Website]](https://cs.jhu.edu/~cxliu/2019/clevr-ref+)
 
 ### Video Datasets
 
@@ -50,6 +56,8 @@ Instructions on RefClef, RefCOCO, RefCOCO+, RefCOCOg is nicely summarized here: 
     - Sigurdsson, Gunnar A., et al. "Charades-Ego: A Large-Scale Dataset of Paired Third and First Person Videos." arXiv preprint arXiv:1804.09626 (2018). [[Paper]](https://arxiv.org/pdf/1804.09626.pdf) [[Code]](https://github.com/gsig/charades-algorithms)
     
 1. **TEMPO**: Hendricks, Lisa Anne, et al. **Localizing Moments in Video with Temporal Language.** arXiv preprint arXiv:1809.01337 (2018). [[Paper]](https://arxiv.org/pdf/1809.01337.pdf) [[Code]](https://github.com/LisaAnne/TemporalLanguageRelease) [[Website]](https://people.eecs.berkeley.edu/~lisa_anne/tempo.html)
+
+1. **ActivityNet-Entities**: Zhou, Luowei, et al. **Grounded video description.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. [[Paper]](https://arxiv.org/pdf/1812.06587.pdf) [[Code]](https://github.com/facebookresearch/ActivityNet-Entities) 
 
 ## Paper Roadmap (Chronological Order):
 
@@ -132,6 +140,17 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 1. Wang, Peng, et al. **Neighbourhood Watch: Referring Expression Comprehension via Language-guided Graph Attention Networks.** arXiv preprint arXiv:1812.04794 (2018). [[Paper]](https://arxiv.org/pdf/1812.04794.pdf)
 
 1. **RETRACTED (see [#2](https://github.com/TheShadow29/awesome-grounding/pull/2))**:  Deng, Chaorui, et al. **You Only Look & Listen Once: Towards Fast and Accurate Visual Grounding.** arXiv preprint arXiv:1902.04213 (2019). [[Paper]](https://arxiv.org/pdf/1902.04213.pdf)
+
+1. Liu, Xihui, et al. **Improving Referring Expression Grounding with Cross-modal Attention-guided Erasing.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. [[Paper]](https://arxiv.org/pdf/1903.00839.pdf) 
+
+1. Dogan, Pelin, Leonid Sigal, and Markus Gross. **Neural Sequential Phrase Grounding (SeqGROUND).** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. [[Paper]](https://arxiv.org/pdf/1903.07669.pdf)
+
+1. Fang, Zhiyuan, et al. **Modularized textual grounding for counterfactual resilience.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. [[Paper]](https://arxiv.org/pdf/1904.03589.pdf)
+
+1. Ye, Linwei, et al. **Cross-Modal Self-Attention Network for Referring Image Segmentation.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. [[Paper]](https://arxiv.org/pdf/1904.04745.pdf)
+
+1. Yang, Sibei, Guanbin Li, and Yizhou Yu. **Cross-Modal Relationship Inference for Grounding Referring Expressions.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. [[Paper]](https://arxiv.org/pdf/1906.04464.pdf)
+
 
 ### Natural Language Object Retrieval (Images)
 
