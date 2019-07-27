@@ -15,8 +15,23 @@ A related vision+language task is Visual Question Answering so this repository m
 
 To maintaing the quality of the repo, I have gone through all the listed papers at least once before adding them to ensure their relevance to grounding. However, I might have missed some paper(s) or added some irrelevant paper(s). Feel free to open an issue in that case. I will go through the paper and then add / remove it. 
 
+## Table of Contents
+- [Contributing](#contributing)
+- [Demos](#demos)
+- [Datasets](#datasets)
+	- [Image Grounding Datasets](#image-grounding-datasets)
+    - [Video Datasets](#video-datasets)
+- [Paper Roadmap (Chronological Order):](#paper-roadmap-chronological-order)
+	- [Visual Grounding / Referring Expressions (Images):](#visual-grounding--referring-expressions-images)
+    - [Natural Language Object Retrieval (Images)](#natural-language-object-retrieval-images)
+    - [Video Grounding (Activity Localization) using Natural Language:](#video-grounding-activity-localization-using-natural-language)
+
+
 ## Contributing
  Feel free to contact me [theshadow29.github.io](theshadow29.github.io) or open an issue or submit a pull request. 
+
+## Demos
+1. MATTNet demo: [http://vision2.cs.unc.edu/refer/comprehension](http://vision2.cs.unc.edu/refer/comprehension)
 
 ## Datasets
 ### Image Grounding Datasets
@@ -31,13 +46,10 @@ To maintaing the quality of the repo, I have gone through all the listed papers 
 
 1. **RefCOCO and RefCOCO+**: 1. Yu, Licheng, et al. **Modeling context in referring expressions.** European Conference on Computer Vision. Springer, Cham, 2016. [[Paper]](https://arxiv.org/pdf/1608.00272.pdf)[[Code]](https://github.com/lichengunc/refer)
 
-
 1. **GuessWhat**: De Vries, Harm, et al. **Guesswhat?! visual object discovery through multi-modal dialogue.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017. [[Paper]](https://arxiv.org/abs/1707.00683) [[Code]](https://github.com/GuessWhatGame/guesswhat/) [[Website]](https://guesswhat.ai/#) 
 
-Instructions on RefClef, RefCOCO, RefCOCO+, RefCOCOg is nicely summarized here: https://github.com/lichengunc/refer
-
-
 1. **Clevr-ref+**: Liu, Runtao, et al. **Clevr-ref+: Diagnosing visual reasoning with referring expressions.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. [[Paper]](https://arxiv.org/pdf/1901.00850.pdf) [[Code]](https://github.com/ccvl/clevr-refplus-dataset-gen) [[Website]](https://cs.jhu.edu/~cxliu/2019/clevr-ref+)
+
 
 ### Video Datasets
 
