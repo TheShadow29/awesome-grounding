@@ -18,7 +18,13 @@ To maintaing the quality of the repo, I have gone through all the listed papers 
 
 
 ## Contributing
- Feel free to contact me via email (ark.sadhu2904@gmail.com) or open an issue or submit a pull request. 
+ Feel free to contact me via email (ark.sadhu2904@gmail.com) or open an issue or submit a pull request. To add a new paper via pull request:
+ 1. Fork the repo, change readme. Put the new paper under the correct heading, and place it at the correct chronological position.
+ 1. Copy its reference in MLA format
+ 1. Put ** around the title
+ 1. Provide link to the paper (arxiv/semantic scholar/conference proceedings).
+ 1. If code or website exists, link that too.
+ 1. Send a pull request. Ideally, I will review the request within a week.
 
 ## Demos
 1. MATTNet demo: [http://vision2.cs.unc.edu/refer/comprehension](http://vision2.cs.unc.edu/refer/comprehension)
