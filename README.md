@@ -175,6 +175,16 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 
 1. Plummer, Bryan A., et al. **Open-vocabulary Phrase Detection.** arXiv preprint arXiv:1811.07212 (2018). [[Paper]](https://arxiv.org/pdf/1811.07212.pdf) [[Code]](https://github.com/VisionLearningGroup/phrase-rcnn)
 
+### Grounding Relations / Referring Relations
+
+1. Krishna, Ranjay, et al. **Referring relationships.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018. [[Paper]](https://arxiv.org/pdf/1803.10362.pdf) [[Code]](https://github.com/StanfordVL/ReferringRelationships) [[Website]](https://cs.stanford.edu/people/ranjaykrishna/referringrelationships/index.html)
+
+1. Raboh, Moshiko et al. **Differentiable Scene Graphs.** (2019). [[Paper]](https://arxiv.org/pdf/1902.10200.pdf)
+
+1. Conser, Erik, et al. **Revisiting Visual Grounding.** arXiv preprint arXiv:1904.02225 (2019).
+[[Paper]](https://arxiv.org/pdf/1904.02225.pdf)
+	- Critique of Referring Relationship paper
+
 ### Video Grounding (Activity Localization) using Natural Language:
 1. Yu, Haonan, et al. **Grounded Language Learning from Video Described with Sentences** Proceedings of the Annual Meeting of the Association for Computational Linguistics. 2013. [[Paper]](https://www.aclweb.org/anthology/P13-1006)
 
