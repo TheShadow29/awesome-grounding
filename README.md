@@ -153,6 +153,8 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 
 1. Dogan, Pelin, Leonid Sigal, and Markus Gross. **Neural Sequential Phrase Grounding (SeqGROUND).** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. [[Paper]](https://arxiv.org/pdf/1903.07669.pdf)
 
+1. Datta, Samyak, et al. **Align2ground: Weakly supervised phrase grounding guided by image-caption alignment.** arXiv preprint arXiv:1903.11649 (2019). [[Paper]](https://arxiv.org/pdf/1903.11649.pdf)
+
 1. Fang, Zhiyuan, et al. **Modularized textual grounding for counterfactual resilience.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. [[Paper]](https://arxiv.org/pdf/1904.03589.pdf)
 
 1. Ye, Linwei, et al. **Cross-Modal Self-Attention Network for Referring Image Segmentation.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. [[Paper]](https://arxiv.org/pdf/1904.04745.pdf)
