@@ -9,7 +9,7 @@ To maintaing the quality of the repo, I have gone through all the listed papers 
 - [Contributing](#contributing)
 - [Demos](#demos)
 - [Datasets](#datasets)
-	- [Image Grounding Datasets](#image-grounding-datasets)
+    - [Image Grounding Datasets](#image-grounding-datasets)
     - [Video Datasets](#video-datasets)
 - [Paper Roadmap (Chronological Order):](#paper-roadmap-chronological-order)
 	- [Visual Grounding / Referring Expressions (Images):](#visual-grounding--referring-expressions-images)
@@ -219,3 +219,8 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 1. Wang, Weining, Yan Huang, and Liang Wang. **Language-Driven Temporal Activity Localization: A Semantic Matching Reinforcement Learning Model.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Language-Driven_Temporal_Activity_Localization_A_Semantic_Matching_Reinforcement_Learning_Model_CVPR_2019_paper.pdf)
 
 1. Ghosh, Soham, et al. **ExCL: Extractive Clip Localization Using Natural Language Descriptions.** arXiv preprint arXiv:1904.02755 (2019). [[Paper]](https://www.aclweb.org/anthology/N19-1198)
+
+### Visual Grounding Pretraining
+
+1. Jiasen Lu, Dhruv Batra, Devi Parikh, Stefan Lee. **ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks.** arXiv preprint arXiv:1908.02265 [[Paper]](https://arxiv.org/pdf/1908.02265.pdf)
+
