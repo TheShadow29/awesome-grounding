@@ -15,7 +15,7 @@ To maintaing the quality of the repo, I have gone through all the listed papers 
 	- [Visual Grounding / Referring Expressions (Images):](#visual-grounding--referring-expressions-images)
     - [Natural Language Object Retrieval (Images)](#natural-language-object-retrieval-images)
     - [Video Grounding (Activity Localization) using Natural Language:](#video-grounding-activity-localization-using-natural-language)
-
+    
 
 ## Contributing
  Feel free to contact me via email (ark.sadhu2904@gmail.com) or open an issue or submit a pull request. To add a new paper via pull request:
@@ -222,7 +222,15 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 
 1. Ghosh, Soham, et al. **ExCL: Extractive Clip Localization Using Natural Language Descriptions.** arXiv preprint arXiv:1904.02755 (2019). [[Paper]](https://www.aclweb.org/anthology/N19-1198)
 
+### Grounded Description (Image) (WIP)
+1. Hendricks, Lisa Anne, et al. **Generating visual explanations.** European Conference on Computer Vision. Springer, Cham, 2016. [[Paper]](https://arxiv.org/pdf/1603.08507.pdf) [[Code]](https://github.com/LisaAnne/ECCV2016/) [[Pytorch Code]](https://github.com/salaniz/pytorch-gve-lrcn)
+
+### Grounded Description (Video) (WIP)
+
+1. Ma, Chih-Yao, et al. **Grounded Objects and Interactions for Video Captioning.** arXiv preprint arXiv:1711.06354 (2017). [[Paper]](https://arxiv.org/pdf/1711.06354.pdf)
+
+1. Zhou, Luowei, et al. **Grounded video description.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. [[Paper]](https://arxiv.org/abs/1812.06587) [[Code]](https://github.com/facebookresearch/grounded-video-description)
+
 ### Visual Grounding Pretraining
 
 1. Jiasen Lu, Dhruv Batra, Devi Parikh, Stefan Lee. **ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks.** arXiv preprint arXiv:1908.02265 [[Paper]](https://arxiv.org/pdf/1908.02265.pdf)
-
