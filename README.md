@@ -235,4 +235,4 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 
 1. Jiasen Lu, Dhruv Batra, Devi Parikh, Stefan Lee. **ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks.** arXiv preprint arXiv:1908.02265 [[Paper]](https://arxiv.org/pdf/1908.02265.pdf)
 
-1. Li, Liunian Harold, et al. **VisualBERT: A Simple and Performant Baseline for Vision and Language.** arXiv preprint arXiv:1908.03557 (2019). [[Paper]](https://arxiv.org/pdf/1908.03557.pdf)
+1. Li, Liunian Harold, et al. **VisualBERT: A Simple and Performant Baseline for Vision and Language.** arXiv preprint arXiv:1908.03557 (2019). [[Paper]](https://arxiv.org/pdf/1908.03557.pdf) [[Code]](https://github.com/uclanlp/visualbert)
