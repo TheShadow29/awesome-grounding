@@ -125,6 +125,8 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 
 1. Deng, Chaorui, et al. **Visual Grounding via Accumulated Attention.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018.[[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Deng_Visual_Grounding_via_CVPR_2018_paper.pdf)
 
+1. Li, Ruiyu, et al. **Referring image segmentation via recurrent refinement networks.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018.[[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Referring_Image_Segmentation_CVPR_2018_paper.pdf)[[code]](https://github.com/liruiyu/referseg_rrn)
+
 1. Zhang, Yundong, Juan Carlos Niebles, and Alvaro Soto. **Interpretable Visual Question Answering by Visual Grounding from Attention Supervision Mining.** arXiv preprint arXiv:1808.00265 (2018). [[Paper]](https://arxiv.org/pdf/1808.00265.pdf) 
 
 1. Chen, Kan, Jiyang Gao, and Ram Nevatia. **Knowledge aided consistency for weakly supervised phrase grounding.** arXiv preprint arXiv:1803.03879 (2018). [[Paper]](https://arxiv.org/abs/1803.03879) [[Code]](https://github.com/kanchen-usc/KAC-Net)
@@ -134,6 +136,8 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 1. Cirik, Volkan, Taylor Berg-Kirkpatrick, and Louis-Philippe Morency. **Using syntax to ground referring expressions in natural images.** arXiv preprint arXiv:1805.10547 (2018).[[Paper]](https://arxiv.org/pdf/1805.10547.pdf) [[Code]](https://github.com/volkancirik/groundnet)
 
 1. Margffoy-Tuay, Edgar, et al. **Dynamic multimodal instance segmentation guided by natural language queries.** Proceedings of the European Conference on Computer Vision (ECCV). 2018. [[Paper]](https://arxiv.org/pdf/1807.02257.pdf) [[Code]](https://github.com/BCV-Uniandes/DMS)
+
+1. Shi, Hengcan, et al. **Key-word-aware network for referring expression image segmentation.** Proceedings of the European Conference on Computer Vision (ECCV). 2018.[[http://openaccess.thecvf.com/content_ECCV_2018/papers/Hengcan_Shi_Key-Word-Aware_Network_for_ECCV_2018_paper.pdf
 
 1. Plummer, Bryan A., et al. **Conditional image-text embedding networks.** Proceedings of the European Conference on Computer Vision (ECCV). 2018. [[Paper]](https://arxiv.org/pdf/1711.08389.pdf) [[Code]](https://github.com/BryanPlummer/cite)
 
