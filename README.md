@@ -226,6 +226,13 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 
 1. Ghosh, Soham, et al. **ExCL: Extractive Clip Localization Using Natural Language Descriptions.** arXiv preprint arXiv:1904.02755 (2019). [[Paper]](https://www.aclweb.org/anthology/N19-1198)
 
+1. Chen, Shaoxiang, and Yu-Gang Jiang. **Semantic Proposal For Activity Localization In Videos Via Sentence Query.** Proceedings of the AAAI Conference on Artificial Intelligence. 2019.[[Paper]](http://yugangjiang.info/publication/19AAAI-actionlocalization.pdf)
+
+1. Yuan Y, Mei T, Zhu W. **To Find Where You Talk: Temporal Sentence Localization In Video With Attention Based Location Regression.** Proceedings of the AAAI Conference on Artificial Intelligence. 2019, 33: 9159-9166. [[Paper]](https://arxiv.org/pdf/1804.07014.pdf)
+
+1. Mithun N C, Paul S, Roy-Chowdhury A K. **Weakly Supervised Video Moment Retrieval From Text Queries**. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019: 11592-11601.[[Paper]](https://arxiv.org/pdf/1904.03282.pdf)
+
+
 ### Grounded Description (Image) (WIP)
 1. Hendricks, Lisa Anne, et al. **Generating visual explanations.** European Conference on Computer Vision. Springer, Cham, 2016. [[Paper]](https://arxiv.org/pdf/1603.08507.pdf) [[Code]](https://github.com/LisaAnne/ECCV2016/) [[Pytorch Code]](https://github.com/salaniz/pytorch-gve-lrcn)
 
