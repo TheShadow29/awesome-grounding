@@ -267,6 +267,16 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 
 ### Visual Grounding Pretraining
 
-1. Jiasen Lu, Dhruv Batra, Devi Parikh, Stefan Lee. **ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks.** arXiv preprint arXiv:1908.02265 [[Paper]](https://arxiv.org/pdf/1908.02265.pdf) [[Code]](https://github.com/jiasenlu/vilbert_beta)
+1. Sun, Chen, et al. **Videobert: A joint model for video and language representation learning.** arXiv preprint arXiv:1904.01766 (2019). [[Paper]](https://arxiv.org/abs/1904.01766)
+
+1. Jiasen Lu, Dhruv Batra, Devi Parikh, Stefan Lee. **ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks.** arXiv preprint arXiv:1908.02265 (Neurips 2019) [[Paper]](https://arxiv.org/pdf/1908.02265.pdf) [[Code]](https://github.com/jiasenlu/vilbert_beta)
 
 1. Li, Liunian Harold, et al. **VisualBERT: A Simple and Performant Baseline for Vision and Language.** arXiv preprint arXiv:1908.03557 (2019). [[Paper]](https://arxiv.org/pdf/1908.03557.pdf) [[Code]](https://github.com/uclanlp/visualbert)
+
+1. Li, Gen, et al. **Unicoder-vl: A universal encoder for vision and language by cross-modal pre-training.** arXiv preprint arXiv:1908.06066 (2019). [[Paper]](https://arxiv.org/pdf/1908.06066.pdf)
+
+1. Tan, Hao, and Mohit Bansal. **Lxmert: Learning cross-modality encoder representations from transformers.** arXiv preprint arXiv:1908.07490 (2019). [[Paper]](https://arxiv.org/pdf/1908.07490.pdf) [[Code]](https://github.com/airsplay/lxmert)
+
+1. Su, Weijie, et al. **Vl-bert: Pre-training of generic visual-linguistic representations.** arXiv preprint arXiv:1908.08530 (2019). [[Paper]](https://arxiv.org/pdf/1908.08530.pdf)
+
+1. Chen, Yen-Chun, et al. **UNITER: Learning UNiversal Image-TExt Representations.** arXiv preprint arXiv:1909.11740 (2019). [[Paper]](https://arxiv.org/pdf/1909.11740.pdf)
