@@ -29,6 +29,13 @@ To maintaing the quality of the repo, I have gone through all the listed papers 
 ## Demos
 1. MATTNet demo: [http://vision2.cs.unc.edu/refer/comprehension](http://vision2.cs.unc.edu/refer/comprehension)
 
+## Other Compilations:
+Shoutout to some other awesome stuff on vision and language grounding:
+
+1. Multi-modal Reading List by Paul Liang (@pliang279) : https://github.com/pliang279/awesome-multimodal-ml/
+1. Temporal Grounding by Mu Ketong (@iworldtong): https://github.com/iworldtong/Awesome-Grounding-Natural-Language-in-Video
+1. Temporal Grounding by WuJie (@WuJie1010): https://github.com/WuJie1010/Awesome-Temporally-Language-Grounding. Also, checkout their implementation of some of the popular papers: https://github.com/WuJie1010/Temporally-language-grounding
+
 ## Datasets
 ### Image Grounding Datasets
 
