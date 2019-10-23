@@ -246,7 +246,7 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 
 1. Mithun N C, Paul S, Roy-Chowdhury A K. **Weakly Supervised Video Moment Retrieval From Text Queries**. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019: 11592-11601.[[Paper]](https://arxiv.org/pdf/1904.03282.pdf)
 
-1. Escorcia, Victor, et al. **Temporal Localization of Moments in Video Collections with Natural Language.** arXiv preprint arXiv:1907.12763 (2019). (ICCV 2019) [[Paper]](https://arxiv.org/pdf/1907.12763.pdf)
+1. Escorcia, Victor, et al. **Temporal Localization of Moments in Video Collections with Natural Language.** arXiv preprint arXiv:1907.12763 (2019). (ICCV 2019) [[Paper]](https://arxiv.org/pdf/1907.12763.pdf) [[Code]](https://github.com/escorciav/moments-retrieval-page)
 
 
 ### Grounded Description (Image) (WIP)
