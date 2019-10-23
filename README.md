@@ -157,16 +157,28 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 
 1. Liu, Xihui, et al. **Improving Referring Expression Grounding with Cross-modal Attention-guided Erasing.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. [[Paper]](https://arxiv.org/pdf/1903.00839.pdf) 
 
-1. Dogan, Pelin, Leonid Sigal, and Markus Gross. **Neural Sequential Phrase Grounding (SeqGROUND).** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. [[Paper]](https://arxiv.org/pdf/1903.07669.pdf)
+1. Dogan, Pelin, Leonid Sigal, and Markus Gross. **Neural Sequential Phrase Grounding (SeqGROUND).** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. (CVPR) 2019. [[Paper]](https://arxiv.org/pdf/1903.07669.pdf)
 
-1. Datta, Samyak, et al. **Align2ground: Weakly supervised phrase grounding guided by image-caption alignment.** arXiv preprint arXiv:1903.11649 (2019). [[Paper]](https://arxiv.org/pdf/1903.11649.pdf)
+1. Datta, Samyak, et al. **Align2ground: Weakly supervised phrase grounding guided by image-caption alignment.** arXiv preprint arXiv:1903.11649 (2019). (ICCV 2019) [[Paper]](https://arxiv.org/pdf/1903.11649.pdf)
 
-1. Fang, Zhiyuan, et al. **Modularized textual grounding for counterfactual resilience.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. [[Paper]](https://arxiv.org/pdf/1904.03589.pdf)
+1. Fang, Zhiyuan, et al. **Modularized textual grounding for counterfactual resilience.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. (CVPR) 2019. [[Paper]](https://arxiv.org/pdf/1904.03589.pdf)
 
-1. Ye, Linwei, et al. **Cross-Modal Self-Attention Network for Referring Image Segmentation.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. [[Paper]](https://arxiv.org/pdf/1904.04745.pdf)
+1. Ye, Linwei, et al. **Cross-Modal Self-Attention Network for Referring Image Segmentation.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. (CVPR) 2019. [[Paper]](https://arxiv.org/pdf/1904.04745.pdf)
 
-1. Yang, Sibei, Guanbin Li, and Yizhou Yu. **Cross-Modal Relationship Inference for Grounding Referring Expressions.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. [[Paper]](https://arxiv.org/pdf/1906.04464.pdf)
+1. Yang, Sibei, Guanbin Li, and Yizhou Yu. **Cross-Modal Relationship Inference for Grounding Referring Expressions.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. (CVPR) 2019. [[Paper]](https://arxiv.org/pdf/1906.04464.pdf)
 
+1. Yang, Sibei, Guanbin Li, and Yizhou Yu. **Dynamic Graph Attention for Referring Expression Comprehension.** arXiv preprint arXiv:1909.08164 (2019). (ICCV 2019) [[Paper]](https://arxiv.org/pdf/1909.08164.pdf) 
+
+1. Wang, Josiah, and Lucia Specia. "Phrase Localization Without Paired Training Examples." arXiv preprint arXiv:1908.07553 (2019). (ICCV 2019) [[Paper]](https://arxiv.org/abs/1908.07553) [[Code]](https://github.com/josiahwang/phraseloceval) 
+
+1. Yang, Zhengyuan, et al. **A Fast and Accurate One-Stage Approach to Visual Grounding.** arXiv preprint arXiv:1908.06354 (2019). (ICCV 2019) [[Paper]](https://arxiv.org/pdf/1908.06354.pdf)
+
+1. Sadhu, Arka, Kan Chen, and Ram Nevatia. **Zero-Shot Grounding of Objects from Natural Language Queries.** arXiv preprint arXiv:1908.07129 (2019).(ICCV 2019) [[Paper]](https://arxiv.org/abs/1908.07129) [[Code]](https://github.com/TheShadow29/zsgnet-pytorch)
+*Disclaimer: I am an author of the paper*
+
+1. Liu, Xuejing, et al. **Adaptive Reconstruction Network for Weakly Supervised Referring Expression Grounding.** arXiv preprint arXiv:1908.10568 (2019). (ICCV 2019) [[Paper]](https://arxiv.org/pdf/1908.10568.pdf) [[Code]](https://github.com/GingL/ARN)
+
+1. Chen, Yi-Wen, et al. **Referring Expression Object Segmentation with Caption-Aware Consistency.** arXiv preprint arXiv:1910.04748 (2019). (BMVC 2019) [[Paper]](https://arxiv.org/abs/1910.04748) [[Code]](https://github.com/wenz116/lang2seg)
 
 ### Natural Language Object Retrieval (Images)
 
