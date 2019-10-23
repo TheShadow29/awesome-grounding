@@ -8,6 +8,7 @@ To maintaing the quality of the repo, I have gone through all the listed papers 
 ## Table of Contents
 - [Contributing](#contributing)
 - [Demos](#demos)
+- [Other Compilations](#other-compilations)
 - [Datasets](#datasets)
     - [Image Grounding Datasets](#image-grounding-datasets)
     - [Video Datasets](#video-datasets)
@@ -15,7 +16,9 @@ To maintaing the quality of the repo, I have gone through all the listed papers 
 	- [Visual Grounding / Referring Expressions (Images):](#visual-grounding--referring-expressions-images)
     - [Natural Language Object Retrieval (Images)](#natural-language-object-retrieval-images)
     - [Video Grounding (Activity Localization) using Natural Language:](#video-grounding-activity-localization-using-natural-language)
-    
+    - [Grounded Description (Image) (WIP)](#grounded-description-image-wip)
+    - [Grounded Description (Video) (WIP)](#grounded-description-video-wip)
+    - [Visual Grounding Pretraining](#visual-grounding-pretraining)
 
 ## Contributing
  Feel free to contact me via email (ark.sadhu2904@gmail.com) or open an issue or submit a pull request. To add a new paper via pull request:
