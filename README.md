@@ -145,13 +145,15 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 
 1. Kovvuri, Rama, and Ram Nevatia. **PIRC Net: Using Proposal Indexing, Relationships and Context for Phrase Grounding.** arXiv preprint arXiv:1812.03213 (2018). [[Paper]](https://arxiv.org/pdf/1812.03213v1.pdf)
 
-1. Liu, Daqing, et al. **Explainability by Parsing: Neural Module Tree Networks for Natural Language Visual Grounding.** arXiv preprint arXiv:1812.03299 (2018). [[Paper]](https://arxiv.org/pdf/1812.03299v1.pdf)
+1. Liu, Daqing, et al. **Learning to Assemble Neural Module Tree Networks for Visual Grounding.** Proceedings of the IEEE International Conference on Computer Vision (ICCV). 2019. [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_Learning_to_Assemble_Neural_Module_Tree_Networks_for_Visual_Grounding_ICCV_2019_paper.pdf) [[Code]](https://github.com/daqingliu/NMTree)
 
 1. Chen, Xinpeng, et al. **Real-Time Referring Expression Comprehension by Single-Stage Grounding Network.** arXiv preprint arXiv:1812.03426 (2018). [[Paper]](https://arxiv.org/pdf/1812.03426v1.pdf)
 
 1. Wang, Peng, et al. **Neighbourhood Watch: Referring Expression Comprehension via Language-guided Graph Attention Networks.** arXiv preprint arXiv:1812.04794 (2018). [[Paper]](https://arxiv.org/pdf/1812.04794.pdf)
 
 1. **RETRACTED (see [#2](https://github.com/TheShadow29/awesome-grounding/pull/2))**:  Deng, Chaorui, et al. **You Only Look & Listen Once: Towards Fast and Accurate Visual Grounding.** arXiv preprint arXiv:1902.04213 (2019). [[Paper]](https://arxiv.org/pdf/1902.04213.pdf)
+
+1. Hong, Richang, et al. **Learning to Compose and Reason with Language Tree Structures for Visual Grounding.** IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI). 2019. [[Paper]](https://arxiv.org/pdf/1906.01784.pdf)
 
 1. Liu, Xihui, et al. **Improving Referring Expression Grounding with Cross-modal Attention-guided Erasing.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. [[Paper]](https://arxiv.org/pdf/1903.00839.pdf) 
 
