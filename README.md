@@ -190,6 +190,8 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 
 1. Chen, Yi-Wen, et al. **Referring Expression Object Segmentation with Caption-Aware Consistency.** arXiv preprint arXiv:1910.04748 (2019). (BMVC 2019) [[Paper]](https://arxiv.org/abs/1910.04748) [[Code]](https://github.com/wenz116/lang2seg)
 
+1. Liu, Jiacheng, and Julia Hockenmaier. **Phrase Grounding by Soft-Label Chain Conditional Random Field.** arXiv preprint arXiv:1909.00301 (2019) (EMNLP 2019). [[Paper]](https://arxiv.org/pdf/1909.00301.pdf) [[Code]](https://github.com/liujch1998/SoftLabelCCRF)
+
 ### Natural Language Object Retrieval (Images)
 
 1. Guadarrama, Sergio, et al. **Open-vocabulary Object Retrieval.** Robotics: science and systems. Vol. 2. No. 5. 2014. [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.434.3000&rep=rep1&type=pdf) [[Code]](http://openvoc.berkeleyvision.org/)
@@ -262,6 +264,10 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 ### Grounded Description (Image) (WIP)
 1. Hendricks, Lisa Anne, et al. **Generating visual explanations.** European Conference on Computer Vision. Springer, Cham, 2016. [[Paper]](https://arxiv.org/pdf/1603.08507.pdf) [[Code]](https://github.com/LisaAnne/ECCV2016/) [[Pytorch Code]](https://github.com/salaniz/pytorch-gve-lrcn)
 
+1. Jiang, Ming, et al. **TIGEr: Text-to-Image Grounding for Image Caption Evaluation.** arXiv preprint arXiv:1909.02050 (2019). (EMNLP 2019) [[Paper]](https://arxiv.org/pdf/1909.02050.pdf) [[Code]](https://github.com/SeleenaJM/CapEval)
+
+1. Lee, Jason, Kyunghyun Cho, and Douwe Kiela. **Countering language drift via visual grounding.** arXiv preprint arXiv:1909.04499 (2019). (EMNLP 2019) [[Paper]](https://arxiv.org/pdf/1909.04499.pdf)
+
 ### Grounded Description (Video) (WIP)
 
 1. Ma, Chih-Yao, et al. **Grounded Objects and Interactions for Video Captioning.** arXiv preprint arXiv:1711.06354 (2017). [[Paper]](https://arxiv.org/pdf/1711.06354.pdf)
@@ -283,3 +289,6 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 1. Su, Weijie, et al. **Vl-bert: Pre-training of generic visual-linguistic representations.** arXiv preprint arXiv:1908.08530 (2019). [[Paper]](https://arxiv.org/pdf/1908.08530.pdf)
 
 1. Chen, Yen-Chun, et al. **UNITER: Learning UNiversal Image-TExt Representations.** arXiv preprint arXiv:1909.11740 (2019). [[Paper]](https://arxiv.org/pdf/1909.11740.pdf)
+
+### Misc:
+1. Han, Xudong, Philip Schulz, and Trevor Cohn. **Grounding learning of modifier dynamics: An application to color naming.** arXiv preprint arXiv:1909.07586 (2019). (EMNLP 2019) [[Paper]](https://arxiv.org/pdf/1909.07586.pdf) [[Code]](https://github.com/HanXudong/GLoM)
