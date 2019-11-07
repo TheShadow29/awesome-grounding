@@ -292,3 +292,5 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 
 ### Misc:
 1. Han, Xudong, Philip Schulz, and Trevor Cohn. **Grounding learning of modifier dynamics: An application to color naming.** arXiv preprint arXiv:1909.07586 (2019). (EMNLP 2019) [[Paper]](https://arxiv.org/pdf/1909.07586.pdf) [[Code]](https://github.com/HanXudong/GLoM)
+
+1. Yu, Xintong, et al. **What You See is What You Get: Visual Pronoun Coreference Resolution in Dialogues.** arXiv preprint arXiv:1909.00421 (2019). (EMNLP 2019) [[Paper]](https://arxiv.org/pdf/1909.00421.pdf) [[Code]](https://github.com/HKUST-KnowComp/Visual_PCR)
