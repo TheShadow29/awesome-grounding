@@ -192,6 +192,8 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 
 1. Liu, Jiacheng, and Julia Hockenmaier. **Phrase Grounding by Soft-Label Chain Conditional Random Field.** arXiv preprint arXiv:1909.00301 (2019) (EMNLP 2019). [[Paper]](https://arxiv.org/pdf/1909.00301.pdf) [[Code]](https://github.com/liujch1998/SoftLabelCCRF)
 
+1. Liu, Yongfei, Wan Bo, Zhu Xiaodan and He Xuming. **Learning Cross-modal Context Graph for Visual Grounding.** arXiv preprint arXiv: (2019) (AAAI-2020). [[Paper]](https://arxiv.org/pdf/1911.09042.pdf) [[Code]](https://github.com/youngfly11/LCMCG-PyTorch)
+
 ### Natural Language Object Retrieval (Images)
 
 1. Guadarrama, Sergio, et al. **Open-vocabulary Object Retrieval.** Robotics: science and systems. Vol. 2. No. 5. 2014. [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.434.3000&rep=rep1&type=pdf) [[Code]](http://openvoc.berkeleyvision.org/)
