@@ -244,6 +244,8 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 
 1. Hendricks, Lisa Anne, et al. **Localizing Moments in Video with Temporal Language.** arXiv preprint arXiv:1809.01337 (2018). [[Paper]](https://arxiv.org/pdf/1809.01337.pdf) [[Code]](https://github.com/LisaAnne/TemporalLanguageRelease) [[Website]](https://people.eecs.berkeley.edu/~lisa_anne/tempo.html)
 
+1. Wu, Aming, and Yahong Han. **Multi-modal Circulant Fusion for Video-to-Language and Backward.** IJCAI. Vol. 3. No. 4. 2018. [[Paper]](https://www.ijcai.org/Proceedings/2018/0143.pdf) [[Code]](https://github.com/AmingWu/Multi-modal-Circulant-Fusion)
+
 1. Ge, Runzhou, et al. **MAC: Mining Actiivity Concepts for Language-based Temporal Localization.** arXiv preprint arXiv:1811.08925 (2018). [[Paper]](https://arxiv.org/pdf/1811.08925.pdf) [[Code]](https://github.com/runzhouge/MAC)
 
 1. Zhang, Da, et al. **MAN: Moment Alignment Network for Natural Language Moment Retrieval via Iterative Graph Adjustment.** arXiv preprint arXiv:1812.00087 (2018). [[Paper]](https://arxiv.org/pdf/1812.00087.pdf)
@@ -261,6 +263,8 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 1. Mithun N C, Paul S, Roy-Chowdhury A K. **Weakly Supervised Video Moment Retrieval From Text Queries**. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019: 11592-11601.[[Paper]](https://arxiv.org/pdf/1904.03282.pdf)
 
 1. Escorcia, Victor, et al. **Temporal Localization of Moments in Video Collections with Natural Language.** arXiv preprint arXiv:1907.12763 (2019). (ICCV 2019) [[Paper]](https://arxiv.org/pdf/1907.12763.pdf) [[Code]](https://github.com/escorciav/moments-retrieval-page)
+
+1. Wang, Jingwen, Lin Ma, and Wenhao Jiang. **Temporally Grounding Language Queries in Videos by Contextual Boundary-aware Prediction.** arXiv preprint arXiv:1909.05010 (2019). (AAAI 2020) [[Paper]](https://arxiv.org/pdf/1909.05010.pdf) [[Code]](https://github.com/JaywongWang/CBP)
 
 
 ### Grounded Description (Image) (WIP)
