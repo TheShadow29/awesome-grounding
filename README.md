@@ -77,6 +77,17 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 1. **ActivityNet-Entities**: Zhou, Luowei, et al. **Grounded video description.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. [[Paper]](https://arxiv.org/pdf/1812.06587.pdf) [[Code]](https://github.com/facebookresearch/ActivityNet-Entities) 
 
+
+### Embodied Agents Platforms:
+
+1. **Matterport3D**: Chang, Angel, et al. **Matterport3d: Learning from rgb-d data in indoor environments.** arXiv preprint arXiv:1709.06158 (2017). [[Paper]](https://arxiv.org/pdf/1711.07280.pdf) [[Code]](https://github.com/niessner/Matterport) [[Website]](https://github.com/niessner/Matterport)
+	- Photorealistic rooms
+
+1. **AI2-THOR**: Kolve, Eric, et al. **Ai2-thor: An interactive 3d environment for visual ai.** arXiv preprint arXiv:1712.05474 (2017). [[Paper]](https://arxiv.org/pdf/1712.05474.pdf) [[Website]](https://ai2thor.allenai.org/)
+	- Actionable objects!
+
+1. **Habitat AI**: Savva, Manolis, et al. **Habitat: A platform for embodied ai research.** Proceedings of the IEEE International Conference on Computer Vision. 2019. (ICCV 2019) [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Savva_Habitat_A_Platform_for_Embodied_AI_Research_ICCV_2019_paper.pdf) [[Website]](https://aihabitat.org/)
+
 ## Paper Roadmap (Chronological Order):
 
 ### Visual Grounding / Referring Expressions (Images):
@@ -295,6 +306,10 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 1. Su, Weijie, et al. **Vl-bert: Pre-training of generic visual-linguistic representations.** arXiv preprint arXiv:1908.08530 (2019). [[Paper]](https://arxiv.org/pdf/1908.08530.pdf)
 
 1. Chen, Yen-Chun, et al. **UNITER: Learning UNiversal Image-TExt Representations.** arXiv preprint arXiv:1909.11740 (2019). [[Paper]](https://arxiv.org/pdf/1909.11740.pdf)
+
+### Grounding for Embodied Agents (WIP):
+
+1. Shridhar, Mohit, et al. **ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks.** arXiv preprint arXiv:1912.01734 (2019). [[Paper]](https://arxiv.org/pdf/1912.01734.pdf) [[Code]](https://github.com/askforalfred/alfred) [[Website]](https://askforalfred.com/) 
 
 ### Misc:
 1. Han, Xudong, Philip Schulz, and Trevor Cohn. **Grounding learning of modifier dynamics: An application to color naming.** arXiv preprint arXiv:1909.07586 (2019). (EMNLP 2019) [[Paper]](https://arxiv.org/pdf/1909.07586.pdf) [[Code]](https://github.com/HanXudong/GLoM)
