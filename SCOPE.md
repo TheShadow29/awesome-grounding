@@ -17,7 +17,7 @@ Following this definition, here is the list of tasks this repository would cover
 
 I will likely add more tasks as I believe there will soon be many new works based on grounding. 
 
-Note that a primary criteria for inclusion would be wheather the evaluation considers grounding or not. For instance, if there is a paper on VQA using attention mechanisms which inherently perform some kind of associations but doesn't provide an evaluation of grounding the objects then it would not be included. If instead they do provide a metric related to grounding, like considering the answer correct only when the grounded object is correct, then it would be added. Similary, an image captioning paper (even if it were to use attention) would not be included, unless it contains evaluations where the evidence is considered like in grounded descriptions.
+Note that a primary criteria for inclusion would be wheather the evaluation considers grounding or not. For instance, if there is a paper on VQA using attention mechanisms which inherently perform some kind of associations but doesn't provide an evaluation of grounding the objects then it would not be included. If instead they do provide a metric related to grounding, like considering the answer correct only when the grounded object is correct, then it would be added. Similary, an image captioning paper (even if it were to use bottom-up attention) would not be included, unless it contains evaluations where the evidence is considered like in grounded descriptions.
 
 
-If you believe there are grounding tasks which are not covered here, feel free to create an issue and/or send me a mail (ark.sadhu2904@gmail.com).
+If you believe there are grounding tasks which are not covered here, feel free to create an issue and/or send me a mail (asadhu@usc.edu).
