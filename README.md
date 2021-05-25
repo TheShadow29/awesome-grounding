@@ -56,6 +56,11 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 1. **Clevr-ref+**: Liu, Runtao, et al. **Clevr-ref+: Diagnosing visual reasoning with referring expressions.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. [[Paper]](https://arxiv.org/pdf/1901.00850.pdf) [[Code]](https://github.com/ccvl/clevr-refplus-dataset-gen) [[Website]](https://cs.jhu.edu/~cxliu/2019/clevr-ref+)
 
+1. **KB-ref**: Wang, Peng, et al. **Give Me Something to Eat: Referring Expression Comprehension with Commonsense Knowledge.** Proceedings of the 28th ACM International Conference on Multimedia. 2020. [[Paper]](https://arxiv.org/pdf/2006.01629) [[Code]](https://github.com/wangpengnorman/KB-Ref_dataset)
+
+1. **Ref-Reasoning**: Yang, Sibei, Guanbin Li, and Yizhou Yu. **Graph-structured referring expression reasoning in the wild.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2020. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Graph-Structured_Referring_Expression_Reasoning_in_the_Wild_CVPR_2020_paper.pdf) [[Code]](https://github.com/sibeiyang/sgmn) [[Website]](https://sibeiyang.github.io/dataset/ref-reasoning/)
+
+
 
 ### Video Datasets
 
@@ -190,7 +195,7 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 
 1. Yang, Sibei, Guanbin Li, and Yizhou Yu. **Dynamic Graph Attention for Referring Expression Comprehension.** arXiv preprint arXiv:1909.08164 (2019). (ICCV 2019) [[Paper]](https://arxiv.org/pdf/1909.08164.pdf) [[Code]](https://github.com/sibeiyang/sgmn/tree/master/lib/dga_models)
 
-1. Wang, Josiah, and Lucia Specia. "Phrase Localization Without Paired Training Examples." arXiv preprint arXiv:1908.07553 (2019). (ICCV 2019) [[Paper]](https://arxiv.org/abs/1908.07553) [[Code]](https://github.com/josiahwang/phraseloceval) 
+1. Wang, Josiah, and Lucia Specia. **Phrase Localization Without Paired Training Examples.** arXiv preprint arXiv:1908.07553 (2019). (ICCV 2019) [[Paper]](https://arxiv.org/abs/1908.07553) [[Code]](https://github.com/josiahwang/phraseloceval) 
 
 1. Yang, Zhengyuan, et al. **A Fast and Accurate One-Stage Approach to Visual Grounding.** arXiv preprint arXiv:1908.06354 (2019). (ICCV 2019) [[Paper]](https://arxiv.org/pdf/1908.06354.pdf) [[Code]](https://github.com/zyang-ur/onestage_grounding)
 
@@ -204,6 +209,24 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 1. Liu, Jiacheng, and Julia Hockenmaier. **Phrase Grounding by Soft-Label Chain Conditional Random Field.** arXiv preprint arXiv:1909.00301 (2019) (EMNLP 2019). [[Paper]](https://arxiv.org/pdf/1909.00301.pdf) [[Code]](https://github.com/liujch1998/SoftLabelCCRF)
 
 1. Liu, Yongfei, Wan Bo, Zhu Xiaodan and He Xuming. **Learning Cross-modal Context Graph for Visual Grounding.** arXiv preprint arXiv: (2019) (AAAI-2020). [[Paper]](https://arxiv.org/pdf/1911.09042.pdf) [[Code]](https://github.com/youngfly11/LCMCG-PyTorch)
+
+1. Yu, Tianyu, et al. **Cross-Modal Omni Interaction Modeling for Phrase Grounding.** Proceedings of the 28th ACM International Conference on Multimedia. ACM 2020. [[Paper: ACM Link]](https://dl.acm.org/doi/abs/10.1145/3394171.3413846) [[Code]](https://github.com/yiranyyu/Phrase-Grounding)
+
+1. Qiu, Heqian, et al. **Language-Aware Fine-Grained Object Representation for Referring Expression Comprehension.** Proceedings of the 28th ACM International Conference on Multimedia. ACM 2020. [[Paper: ACM Link]](https://dl.acm.org/doi/abs/10.1145/3394171.3413850)
+
+1. Wang, Qinxin, et al. **MAF: Multimodal Alignment Framework for Weakly-Supervised Phrase Grounding.** arXiv preprint arXiv:2010.05379 (2020). [[Paper]](https://arxiv.org/pdf/2010.05379) [[Code]](https://github.com/qinzzz/Multimodal-Alignment-Framework)
+
+1. Liao, Yue, et al. **A real-time cross-modality correlation filtering method for referring expression comprehension.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2020. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liao_A_Real-Time_Cross-Modality_Correlation_Filtering_Method_for_Referring_Expression_Comprehension_CVPR_2020_paper.pdf)
+
+1. Hu, Zhiwei, et al. **Bi-directional relationship inferring network for referring image segmentation.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2020. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hu_Bi-Directional_Relationship_Inferring_Network_for_Referring_Image_Segmentation_CVPR_2020_paper.pdf) [[Code]](https://github.com/fengguang94/CVPR2020-BRINet)
+
+1. Yang, Sibei, Guanbin Li, and Yizhou Yu. **Graph-structured referring expression reasoning in the wild.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2020. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Graph-Structured_Referring_Expression_Reasoning_in_the_Wild_CVPR_2020_paper.pdf) [[Code]](https://github.com/sibeiyang/sgmn)
+
+1. Luo, Gen, et al. **Multi-task collaborative network for joint referring expression comprehension and segmentation.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2020. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Luo_Multi-Task_Collaborative_Network_for_Joint_Referring_Expression_Comprehension_and_Segmentation_CVPR_2020_paper.pdf) [[Code]](https://github.com/luogen1996/MCN)
+
+1. Gupta, Tanmay, et al. **Contrastive learning for weakly supervised phrase grounding.** Proceedings of the European Conference on Computer Vision (ECCV). 2020. [[Paper]](https://arxiv.org/pdf/2006.09920) [[Code]](https://github.com/BigRedT/info-ground)
+
+1. Yang, Zhengyuan, et al. **Improving one-stage visual grounding by recursive sub-query construction.** Proceedings of the European Conference on Computer Vision (ECCV). 2020. [[Paper]](https://arxiv.org/pdf/2008.01059) [[Code]](https://github.com/zyang-ur/ReSC)
 
 ### Natural Language Object Retrieval (Images)
 
