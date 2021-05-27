@@ -56,9 +56,13 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 1. **Clevr-ref+**: Liu, Runtao, et al. **Clevr-ref+: Diagnosing visual reasoning with referring expressions.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. [[Paper]](https://arxiv.org/pdf/1901.00850.pdf) [[Code]](https://github.com/ccvl/clevr-refplus-dataset-gen) [[Website]](https://cs.jhu.edu/~cxliu/2019/clevr-ref+)
 
-1. **KB-ref**: Wang, Peng, et al. **Give Me Something to Eat: Referring Expression Comprehension with Commonsense Knowledge.** Proceedings of the 28th ACM International Conference on Multimedia. 2020. [[Paper]](https://arxiv.org/pdf/2006.01629) [[Code]](https://github.com/wangpengnorman/KB-Ref_dataset)
+1. **KB-Ref**: Wang, Peng, et al. **Give Me Something to Eat: Referring Expression Comprehension with Commonsense Knowledge.** Proceedings of the 28th ACM International Conference on Multimedia. 2020. [[Paper]](https://arxiv.org/pdf/2006.01629) [[Code]](https://github.com/wangpengnorman/KB-Ref_dataset)
 
 1. **Ref-Reasoning**: Yang, Sibei, Guanbin Li, and Yizhou Yu. **Graph-structured referring expression reasoning in the wild.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2020. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Graph-Structured_Referring_Expression_Reasoning_in_the_Wild_CVPR_2020_paper.pdf) [[Code]](https://github.com/sibeiyang/sgmn) [[Website]](https://sibeiyang.github.io/dataset/ref-reasoning/)
+
+1. **Cops-Ref**: Chen, Zhenfang, et al. **Cops-Ref: A new Dataset and Task on Compositional Referring Expression Comprehension.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2020. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Cops-Ref_A_New_Dataset_and_Task_on_Compositional_Referring_Expression_CVPR_2020_paper.pdf) [[Code]](https://github.com/zfchenUnique/Cops-Ref)
+
+1. **SUNRefer**: Liu, Haolin, et al. **Refer-it-in-RGBD: A Bottom-up Approach for 3D Visual Grounding in RGBD Images.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2021. [[Paper]](https://arxiv.org/pdf/2103.07894) [[Code]](https://github.com/UncleMEDM/Refer-it-in-RGBD) [[Website]](https://unclemedm.github.io/Refer-it-in-RGBD/)
 
 
 
@@ -171,11 +175,11 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 
 1. Kovvuri, Rama, and Ram Nevatia. **PIRC Net: Using Proposal Indexing, Relationships and Context for Phrase Grounding.** arXiv preprint arXiv:1812.03213 (2018). [[Paper]](https://arxiv.org/pdf/1812.03213v1.pdf)
 
-1. Liu, Daqing, et al. **Learning to Assemble Neural Module Tree Networks for Visual Grounding.** Proceedings of the IEEE International Conference on Computer Vision (ICCV). 2019. [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_Learning_to_Assemble_Neural_Module_Tree_Networks_for_Visual_Grounding_ICCV_2019_paper.pdf) [[Code]](https://github.com/daqingliu/NMTree)
-
 1. Chen, Xinpeng, et al. **Real-Time Referring Expression Comprehension by Single-Stage Grounding Network.** arXiv preprint arXiv:1812.03426 (2018). [[Paper]](https://arxiv.org/pdf/1812.03426v1.pdf)
 
 1. Wang, Peng, et al. **Neighbourhood Watch: Referring Expression Comprehension via Language-guided Graph Attention Networks.** arXiv preprint arXiv:1812.04794 (2018). [[Paper]](https://arxiv.org/pdf/1812.04794.pdf)
+
+1. Liu, Daqing, et al. **Learning to Assemble Neural Module Tree Networks for Visual Grounding.** Proceedings of the IEEE International Conference on Computer Vision (ICCV). 2019. [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_Learning_to_Assemble_Neural_Module_Tree_Networks_for_Visual_Grounding_ICCV_2019_paper.pdf) [[Code]](https://github.com/daqingliu/NMTree)
 
 1. **RETRACTED (see [#2](https://github.com/TheShadow29/awesome-grounding/pull/2))**:  Deng, Chaorui, et al. **You Only Look & Listen Once: Towards Fast and Accurate Visual Grounding.** arXiv preprint arXiv:1902.04213 (2019). [[Paper]](https://arxiv.org/pdf/1902.04213.pdf)
 
@@ -227,6 +231,28 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 1. Gupta, Tanmay, et al. **Contrastive learning for weakly supervised phrase grounding.** Proceedings of the European Conference on Computer Vision (ECCV). 2020. [[Paper]](https://arxiv.org/pdf/2006.09920) [[Code]](https://github.com/BigRedT/info-ground)
 
 1. Yang, Zhengyuan, et al. **Improving one-stage visual grounding by recursive sub-query construction.** Proceedings of the European Conference on Computer Vision (ECCV). 2020. [[Paper]](https://arxiv.org/pdf/2008.01059) [[Code]](https://github.com/zyang-ur/ReSC)
+
+1. Wang, Liwei, et al. **Improving Weakly Supervised Visual Grounding by Contrastive Knowledge Distillation.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2021. [[Paper]](https://arxiv.org/pdf/2007.01951)
+
+1. Sun, Mingjie, Jimin Xiao, and Eng Gee Lim. **Iterative Shrinking for Referring Expression Grounding Using Deep Reinforcement Learning.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2021. [[Paper]](https://arxiv.org/pdf/2007.01951) [[Code]](https://github.com/insomnia94/ISREG)
+
+1. Liu, Haolin, et al. **Refer-it-in-RGBD: A Bottom-up Approach for 3D Visual Grounding in RGBD Images.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2021. [[Paper]](https://arxiv.org/pdf/2103.07894) [[Code]](https://github.com/UncleMEDM/Refer-it-in-RGBD)
+
+1. Liu, Yongfei, et al. **Relation-aware Instance Refinement for Weakly Supervised Visual Grounding.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2021. [[Paper]](https://arxiv.org/pdf/2103.12989) [[Code]](https://github.com/youngfly11/ReIR-WeaklyGrounding.pytorch)
+
+1. Lin, Xiangru, Guanbin Li, and Yizhou Yu. **Scene-Intuitive Agent for Remote Embodied Visual Grounding.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2021. [[Paper]](https://arxiv.org/pdf/2103.12944)
+
+1. Sun, Mingjie, et al. **Discriminative triad matching and reconstruction for weakly referring expression grounding.** IEEE transactions on pattern analysis and machine intelligence (TPAMI 2021). [[Paper]](https://livrepository.liverpool.ac.uk/3116000/1/manuscript.pdf) [[Code]](https://github.com/insomnia94/DTWREG)
+
+1. Mu, Zongshen, et al. **Disentangled Motif-aware Graph Learning for Phrase Grounding.** arXiv preprint arXiv:2104.06008 (AAAI 2021). [[Paper]](https://www.aaai.org/AAAI21Papers/AAAI-2589.MuZ.pdf)
+
+1. Chen, Long, et al. **Ref-NMS: Breaking Proposal Bottlenecks in Two-Stage Referring Expression Grounding.** arXiv preprint arXiv:2009.01449 (AAAI-2021). [[Paper]](https://arxiv.org/pdf/2009.01449) [[Code]](https://github.com/ChopinSharp/ref-nms)
+
+1. Deng, Jiajun, et al. **TransVG: End-to-End Visual Grounding with Transformers.** arXiv preprint arXiv:2104.08541 (2021). [[Paper]](https://arxiv.org/pdf/2104.08541) [[Unofficial Code]](https://github.com/nku-shengzheliu/Pytorch-TransVG)
+
+1. Du, Ye, et al. **Visual Grounding with Transformers.** arXiv preprint arXiv:2105.04281 (2021). [[Paper]](https://arxiv.org/pdf/2105.04281)
+
+1. Kamath, Aishwarya, et al. **MDETR--Modulated Detection for End-to-End Multi-Modal Understanding.** arXiv preprint arXiv:2104.12763 (2021). [[Paper]](https://arxiv.org/pdf/2104.12763)
 
 ### Natural Language Object Retrieval (Images)
 
