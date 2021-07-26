@@ -19,6 +19,7 @@ To maintaing the quality of the repo, I have gone through all the listed papers 
     - [Grounded Description (Image) (WIP)](#grounded-description-image-wip)
     - [Grounded Description (Video) (WIP)](#grounded-description-video-wip)
     - [Visual Grounding Pretraining](#visual-grounding-pretraining)
+    - [Visual Grounding in 3D](#visual-grounding-in-3d)
 
 ## Contributing
  Feel free to contact me via email (ark.sadhu2904@gmail.com) or open an issue or submit a pull request. To add a new paper via pull request:
@@ -355,6 +356,14 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 1. Su, Weijie, et al. **Vl-bert: Pre-training of generic visual-linguistic representations.** arXiv preprint arXiv:1908.08530 (2019). [[Paper]](https://arxiv.org/pdf/1908.08530.pdf)
 
 1. Chen, Yen-Chun, et al. **UNITER: Learning UNiversal Image-TExt Representations.** arXiv preprint arXiv:1909.11740 (2019). [[Paper]](https://arxiv.org/pdf/1909.11740.pdf)
+
+### Visual Grounding in 3D
+
+1. Chen, Dave Zhenyu, Angel X. Chang, and Matthias Nießner. **Scanrefer: 3d object localization in rgb-d scans using natural language.** Computer Vision–ECCV 2020: 16th European Conference, Glasgow, UK, August 23–28, 2020, Proceedings, Part XX 16. Springer International Publishing, 2020. [[Paper]](https://arxiv.org/abs/1912.08830)  [[Code]](https://github.com/daveredrum/ScanRefer)
+
+2. Achlioptas, Panos, et al. **Referit3d: Neural listeners for fine-grained 3d object identification in real-world scenes.** European Conference on Computer Vision. Springer, Cham, 2020.  [[Website]](https://referit3d.github.io/)
+
+3. Yuan, Zhihao, et al. **Instancerefer: Cooperative holistic understanding for visual grounding on point clouds through instance multi-level contextual referring.** arXiv preprint arXiv:2103.01128 (2021). [[Paper]](https://arxiv.org/abs/2103.01128) [[Code]](https://github.com/CurryYuan/InstanceRefer)
 
 ### Grounding for Embodied Agents (WIP):
 
