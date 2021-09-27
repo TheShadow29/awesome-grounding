@@ -65,6 +65,8 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 1. **SUNRefer**: Liu, Haolin, et al. **Refer-it-in-RGBD: A Bottom-up Approach for 3D Visual Grounding in RGBD Images.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2021. [[Paper]](https://arxiv.org/pdf/2103.07894) [[Code]](https://github.com/UncleMEDM/Refer-it-in-RGBD) [[Website]](https://unclemedm.github.io/Refer-it-in-RGBD/)
 
+1. **Talk2Car**: Deruyttere, Thierry, et al. **Talk2Car: Taking Control of Your Self-Driving Car** Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP). 2019.
+[[Paper]](https://aclanthology.org/D19-1215/) [[Website]](https://talk2car.github.io/) [[Code]](https://github.com/talk2car/Talk2Car)
 
 
 ### Video Datasets
