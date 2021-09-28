@@ -57,6 +57,9 @@ Shoutout to some other awesome stuff on vision and language grounding:
 
 1. **Clevr-ref+**: Liu, Runtao, et al. **Clevr-ref+: Diagnosing visual reasoning with referring expressions.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. [[Paper]](https://arxiv.org/pdf/1901.00850.pdf) [[Code]](https://github.com/ccvl/clevr-refplus-dataset-gen) [[Website]](https://cs.jhu.edu/~cxliu/2019/clevr-ref+)
 
+1. **Talk2Car**: Deruyttere, Thierry, et al. **Talk2Car: Taking Control of Your Self-Driving Car** Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP). 2019.
+[[Paper]](https://aclanthology.org/D19-1215/) [[Website]](https://talk2car.github.io/) [[Code]](https://github.com/talk2car/Talk2Car)
+
 1. **KB-Ref**: Wang, Peng, et al. **Give Me Something to Eat: Referring Expression Comprehension with Commonsense Knowledge.** Proceedings of the 28th ACM International Conference on Multimedia. 2020. [[Paper]](https://arxiv.org/pdf/2006.01629) [[Code]](https://github.com/wangpengnorman/KB-Ref_dataset)
 
 1. **Ref-Reasoning**: Yang, Sibei, Guanbin Li, and Yizhou Yu. **Graph-structured referring expression reasoning in the wild.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2020. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Graph-Structured_Referring_Expression_Reasoning_in_the_Wild_CVPR_2020_paper.pdf) [[Code]](https://github.com/sibeiyang/sgmn) [[Website]](https://sibeiyang.github.io/dataset/ref-reasoning/)
@@ -64,10 +67,6 @@ Shoutout to some other awesome stuff on vision and language grounding:
 1. **Cops-Ref**: Chen, Zhenfang, et al. **Cops-Ref: A new Dataset and Task on Compositional Referring Expression Comprehension.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2020. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Cops-Ref_A_New_Dataset_and_Task_on_Compositional_Referring_Expression_CVPR_2020_paper.pdf) [[Code]](https://github.com/zfchenUnique/Cops-Ref)
 
 1. **SUNRefer**: Liu, Haolin, et al. **Refer-it-in-RGBD: A Bottom-up Approach for 3D Visual Grounding in RGBD Images.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2021. [[Paper]](https://arxiv.org/pdf/2103.07894) [[Code]](https://github.com/UncleMEDM/Refer-it-in-RGBD) [[Website]](https://unclemedm.github.io/Refer-it-in-RGBD/)
-
-1. **Talk2Car**: Deruyttere, Thierry, et al. **Talk2Car: Taking Control of Your Self-Driving Car** Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP). 2019.
-[[Paper]](https://aclanthology.org/D19-1215/) [[Website]](https://talk2car.github.io/) [[Code]](https://github.com/talk2car/Talk2Car)
-
 
 ### Video Datasets
 
