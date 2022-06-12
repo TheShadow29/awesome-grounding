@@ -358,6 +358,8 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 
 1. Chen, Yen-Chun, et al. **UNITER: Learning UNiversal Image-TExt Representations.** arXiv preprint arXiv:1909.11740 (2019). [[Paper]](https://arxiv.org/pdf/1909.11740.pdf)
 
+1. Li Liunian Harold, Pengchuan Zhang, Haotian Zhang, et al. **Grounded language-image pre-training.** arXiv preprint arXiv:2112.03857 (2021). [[Paper]](https://arxiv.org/abs/2112.03857) [[Code]](https://github.com/microsoft/GLIP)
+
 ### Visual Grounding in 3D
 
 1. Chen, Dave Zhenyu, Angel X. Chang, and Matthias Nießner. **Scanrefer: 3d object localization in rgb-d scans using natural language.** Computer Vision–ECCV 2020: 16th European Conference, Glasgow, UK, August 23–28, 2020, Proceedings, Part XX 16. Springer International Publishing, 2020. [[Paper]](https://arxiv.org/abs/1912.08830)  [[Code]](https://github.com/daveredrum/ScanRefer)
