@@ -368,6 +368,8 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 
 3. Yuan, Zhihao, et al. **Instancerefer: Cooperative holistic understanding for visual grounding on point clouds through instance multi-level contextual referring.** arXiv preprint arXiv:2103.01128 (2021). [[Paper]](https://arxiv.org/abs/2103.01128) [[Code]](https://github.com/CurryYuan/InstanceRefer)
 
+4. Rozenberszki, David, et al. **Language-Grounded Indoor 3D Semantic Segmentation in the Wild.** European Conference on Computer Vision. Springer, Tel Aviv, 2022. [[Website]](https://rozdavid.github.io/scannet200) [[Paper]](https://arxiv.org/abs/2204.07761) [[Code]](https://github.com/RozDavid/LanguageGroundedSemseg)
+
 ### Grounding for Embodied Agents (WIP):
 
 1. Shridhar, Mohit, et al. **ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks.** arXiv preprint arXiv:1912.01734 (2019). [[Paper]](https://arxiv.org/pdf/1912.01734.pdf) [[Code]](https://github.com/askforalfred/alfred) [[Website]](https://askforalfred.com/) 
