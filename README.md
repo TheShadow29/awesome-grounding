@@ -256,7 +256,7 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 
 1. Kamath, Aishwarya, et al. **MDETR--Modulated Detection for End-to-End Multi-Modal Understanding.** arXiv preprint arXiv:2104.12763 (2021). [[Paper]](https://arxiv.org/pdf/2104.12763)
 
-1. Rigoni, Davide, Luciano Serafini, and Alessandro Sperduti. "A better loss for visual-textual grounding." Proceedings of the 37th ACM/SIGAPP Symposium on Applied Computing. 2022. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3477314.3507047?casa_token=w2ChGKkPGtIAAAAA:jC1s0t1rjQC8PX-ttq9Utn9cnDqKmsGHrck8MjQYDkWhS03BdiYhYko-vXE7DeMWBizqRRb_KjvD) [[Code]](https://github.com/drigoni/Loss_VT_Grounding)
+1. Rigoni, Davide, Luciano Serafini, and Alessandro Sperduti. **A better loss for visual-textual grounding.** Proceedings of the 37th ACM/SIGAPP Symposium on Applied Computing. 2022. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3477314.3507047?casa_token=w2ChGKkPGtIAAAAA:jC1s0t1rjQC8PX-ttq9Utn9cnDqKmsGHrck8MjQYDkWhS03BdiYhYko-vXE7DeMWBizqRRb_KjvD) [[Code]](https://github.com/drigoni/Loss_VT_Grounding)
 
 ### Natural Language Object Retrieval (Images)
 
