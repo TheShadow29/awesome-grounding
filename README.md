@@ -372,6 +372,8 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 
 4. Rozenberszki, David, et al. **Language-Grounded Indoor 3D Semantic Segmentation in the Wild.** European Conference on Computer Vision. Springer, Tel Aviv, 2022. [[Website]](https://rozdavid.github.io/scannet200) [[Paper]](https://arxiv.org/abs/2204.07761) [[Code]](https://github.com/RozDavid/LanguageGroundedSemseg)
 
+5. Li, Rong, et al. **SeeGround: See and Ground for Zero-Shot Open-Vocabulary 3D Visual Grounding.** IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Nashville, TN, 2025. [[Website]](https://seeground.github.io/) [[Paper]](https://arxiv.org/abs/2412.04383) [[Code]](https://github.com/iris0329/SeeGround)
+
 ### Grounding for Embodied Agents (WIP):
 
 1. Shridhar, Mohit, et al. **ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks.** arXiv preprint arXiv:1912.01734 (2019). [[Paper]](https://arxiv.org/pdf/1912.01734.pdf) [[Code]](https://github.com/askforalfred/alfred) [[Website]](https://askforalfred.com/) 
