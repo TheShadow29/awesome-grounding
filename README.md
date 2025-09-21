@@ -258,6 +258,10 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 
 1. Cho, Junhyeong, et al. **Collaborative Transformers for Grounded Situation Recognition.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2022. [[Paper]](https://arxiv.org/pdf/2203.16518) [[Code]](https://github.com/jhcho99/CoFormer) [[Website]](https://coformer.github.io/)
 
+1. Chen, Zhangquan, et al. **VisRL: Intention-Driven Visual Perception via Reinforced Reasoning.** ICCV 2025. [[Paper]](https://arxiv.org/abs/2503.07523) [[Code]](https://github.com/zhangquanchen/VisRL) [[Website]](https://tsinghua88.github.io/visrl.github.io/)
+
+1. Chen, Zhangquan, et al. **SIFThinker: Spatially-Aware Image Focus for Visual Reasoning.** arXiv preprint arXiv:2508.06259. [[Paper]](https://arxiv.org/abs/2508.06259) [[Code]](https://github.com/zhangquanchen/SIFThinker)
+
 ### Natural Language Object Retrieval (Images)
 
 1. Guadarrama, Sergio, et al. **Open-vocabulary Object Retrieval.** Robotics: science and systems. Vol. 2. No. 5. 2014. [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.434.3000&rep=rep1&type=pdf) [[Code]](http://openvoc.berkeleyvision.org/)
