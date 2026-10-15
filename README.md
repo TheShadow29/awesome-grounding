@@ -334,6 +334,11 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 
 1. Wang, Jingwen, Lin Ma, and Wenhao Jiang. **Temporally Grounding Language Queries in Videos by Contextual Boundary-aware Prediction.** arXiv preprint arXiv:1909.05010 (2019). (AAAI 2020) [[Paper]](https://arxiv.org/pdf/1909.05010.pdf) [[Code]](https://github.com/JaywongWang/CBP)
 
+1. Li, Xinhao, et al. **VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding.** arXiv preprint arXiv:2607.14935 (2026). [[Paper]](https://arxiv.org/abs/2607.14935) [[Code]](https://github.com/MCG-NJU/VideoChat3)
+
+1. Zhu, Yuhan, et al. **TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs.** arXiv preprint arXiv:2607.17423 (2026). [[Paper]](https://arxiv.org/abs/2607.17423) [[Code]](https://github.com/MCG-NJU/TimeLens2)
+
+1. Zhu, Yuhan, et al. **VideoJev: System One Model for Video Understanding and Interaction.** arXiv preprint arXiv:2610.18615 (2026). [[Paper]](https://arxiv.org/abs/2610.18615) [[Code]](https://github.com/MCG-NJU/VideoJev)
 
 ### Grounded Description (Image) (WIP)
 1. Hendricks, Lisa Anne, et al. **Generating visual explanations.** European Conference on Computer Vision. Springer, Cham, 2016. [[Paper]](https://arxiv.org/pdf/1603.08507.pdf) [[Code]](https://github.com/LisaAnne/ECCV2016/) [[Pytorch Code]](https://github.com/salaniz/pytorch-gve-lrcn)
